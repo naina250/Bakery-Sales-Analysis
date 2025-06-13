@@ -22,7 +22,7 @@ This project analyze sales data and provide ene-to-end solution:
 
 ---
 
-## ## 📂 Dataset Overview
+## Dataset Overview
 
 Simulated dataset with 1,000 orders, including:
 
@@ -38,3 +38,4 @@ Simulated dataset with 1,000 orders, including:
 | Payment_Mode     | Mode of payment                    |
 | Delivery_Status  | Delivery state                     |
 | Total_Price      | Calculated: Quantity × Price × (1 - Discount/100) |
+
