@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Product,Quantity,Unit_Price,Discount(%),Customer_City,Payment_Mode,Delivery_Status,total_price
+1001,2025-03-18,"Vanilla Cupcake",4,100,0,Delhi,Card,Delivered,400.00
+1002,2025-04-24,"Choco Chip Cookie",5,80,20,Kanpur,Card,Delivered,320.00
+1003,2024-11-24,"Jar Cake",4,250,20,Mumbai,"Cash on Delivery",Delivered,800.00
+1004,2024-11-16,"Jar Cake",3,250,0,Lucknow,UPI,Pending,750.00
+1005,2024-12-28,Brownie,2,150,15,Gurgaon,"Cash on Delivery",Delivered,255.00
+1006,2025-01-30,"Choco Chip Cookie",4,80,5,Delhi,UPI,Delivered,304.00
+1007,2025-04-10,"Jar Cake",3,250,20,Gurgaon,Card,Delivered,600.00
+1008,2025-04-02,"Chocolate Cake",3,400,5,Noida,"Cash on Delivery",Delivered,1140.00
+1009,2025-02-12,"Chocolate Truffle",4,300,20,Delhi,Card,Delivered,960.00
+1010,2025-03-12,"Vanilla Cupcake",2,100,20,Noida,"Cash on Delivery",Delivered,160.00
+1011,2024-12-12,"Choco Chip Cookie",3,80,0,Delhi,Card,Pending,240.00
+1012,2024-11-15,Brownie,2,150,0,Gurgaon,UPI,Delivered,300.00
+1013,2025-03-21,"Chocolate Cake",4,400,5,Noida,Card,Delivered,1520.00
+1014,2024-11-04,"Jar Cake",2,250,10,Lucknow,UPI,Pending,450.00
+1015,2025-04-04,"Chocolate Cake",4,400,0,Kanpur,"Cash on Delivery",Delivered,1600.00
+1016,2025-04-09,"Vanilla Cupcake",2,100,0,Delhi,"Cash on Delivery",Delivered,200.00
+1017,2025-02-14,"Chocolate Cake",5,400,20,Kanpur,Online,Delivered,1600.00
+1018,2025-01-23,Brownie,4,150,5,Lucknow,Card,Delivered,570.00
+1019,2025-01-16,"Chocolate Cake",3,400,5,Noida,"Cash on Delivery",Delivered,1140.00
+1020,2025-04-21,"Vanilla Cupcake",4,100,15,Kanpur,UPI,Delivered,340.00
+1021,2025-04-08,"Choco Chip Cookie",3,80,5,Lucknow,Online,Pending,228.00
+1022,2025-04-21,"Jar Cake",3,250,0,Gurgaon,Card,Delivered,750.00
+1023,2025-03-24,"Chocolate Cake",2,400,10,Kanpur,Card,Delivered,720.00
+1024,2024-12-29,"Chocolate Truffle",3,300,5,Lucknow,"Cash on Delivery",Delivered,855.00
+1025,2025-01-27,"Chocolate Cake",1,400,10,Noida,UPI,Delivered,360.00
+1026,2025-04-24,Brownie,3,150,15,Lucknow,UPI,Delivered,382.50
+1027,2025-01-01,"Choco Chip Cookie",4,80,0,Kanpur,UPI,Cancelled,320.00
+1028,2024-11-06,"Jar Cake",2,250,5,Mumbai,Card,Delivered,475.00
+1029,2025-01-27,Brownie,4,150,0,Mumbai,Card,Delivered,600.00
+1030,2025-03-11,Brownie,5,150,15,Lucknow,"Cash on Delivery",Delivered,637.50
+1031,2025-04-07,"Chocolate Truffle",4,300,10,Mumbai,"Cash on Delivery",Delivered,1080.00
+1032,2024-12-22,Brownie,3,150,5,Kanpur,Online,Delivered,427.50
+1033,2025-02-12,"Jar Cake",3,250,5,Gurgaon,UPI,Delivered,712.50
+1034,2025-04-06,Brownie,4,150,10,Kanpur,Online,Delivered,540.00
+1035,2025-02-14,Brownie,4,150,20,Noida,"Cash on Delivery",Pending,480.00
+1036,2025-03-28,"Chocolate Truffle",3,300,10,Noida,Online,Delivered,810.00
+1037,2025-02-03,"Choco Chip Cookie",2,80,20,Noida,Card,Cancelled,128.00
+1038,2025-02-24,"Chocolate Truffle",2,300,0,Kanpur,Card,Pending,600.00
+1039,2025-04-02,"Vanilla Cupcake",3,100,10,Lucknow,Card,Delivered,270.00
+1040,2025-03-09,"Chocolate Truffle",3,300,0,Gurgaon,UPI,Delivered,900.00
+1041,2025-03-24,"Chocolate Cake",3,400,20,Noida,Online,Delivered,960.00
+1042,2024-11-09,"Chocolate Cake",4,400,20,Delhi,UPI,Delivered,1280.00
+1043,2025-03-22,"Vanilla Cupcake",5,100,20,Mumbai,Online,Delivered,400.00
+1044,2025-02-02,"Choco Chip Cookie",1,80,15,Noida,"Cash on Delivery",Delivered,68.00
+1045,2024-12-23,"Choco Chip Cookie",1,80,0,Lucknow,UPI,Delivered,80.00
+1046,2024-11-30,Brownie,2,150,15,Mumbai,UPI,Delivered,255.00
+1047,2024-11-17,"Vanilla Cupcake",1,100,0,Delhi,Card,Pending,100.00
+1048,2025-01-21,"Chocolate Cake",4,400,5,Lucknow,Online,Delivered,1520.00
+1049,2025-02-02,"Jar Cake",5,250,0,Mumbai,"Cash on Delivery",Delivered,1250.00
+1050,2024-12-28,"Vanilla Cupcake",2,100,15,Lucknow,"Cash on Delivery",Delivered,170.00
+1051,2025-01-28,"Chocolate Cake",2,400,20,Mumbai,UPI,Delivered,640.00
+1052,2024-12-25,"Choco Chip Cookie",4,80,5,Mumbai,Card,Delivered,304.00
+1053,2024-12-29,"Chocolate Truffle",2,300,0,Kanpur,"Cash on Delivery",Delivered,600.00
+1054,2025-01-07,Brownie,5,150,10,Noida,Card,Delivered,675.00
+1055,2025-03-29,Brownie,5,150,20,Noida,"Cash on Delivery",Delivered,600.00
+1056,2024-11-27,"Choco Chip Cookie",5,80,15,Mumbai,Card,Delivered,340.00
+1057,2024-11-07,Brownie,3,150,15,Mumbai,"Cash on Delivery",Delivered,382.50
+1058,2025-03-28,Brownie,3,150,20,Kanpur,Online,Delivered,360.00
+1059,2025-02-13,"Choco Chip Cookie",2,80,0,Noida,"Cash on Delivery",Delivered,160.00
+1060,2025-01-21,"Jar Cake",3,250,5,Noida,"Cash on Delivery",Delivered,712.50
+1061,2025-01-20,"Jar Cake",5,250,10,Delhi,Card,Delivered,1125.00
+1062,2024-12-07,Brownie,4,150,15,Mumbai,UPI,Delivered,510.00
+1063,2024-11-25,"Jar Cake",1,250,20,Gurgaon,Card,Delivered,200.00
+1064,2025-04-12,"Chocolate Cake",5,400,5,Lucknow,UPI,Pending,1900.00
+1065,2024-11-18,"Choco Chip Cookie",3,80,20,Delhi,UPI,Delivered,192.00
+1066,2025-03-28,"Vanilla Cupcake",5,100,20,Delhi,UPI,Delivered,400.00
+1067,2025-01-10,Brownie,5,150,20,Noida,UPI,Delivered,600.00
+1068,2024-12-15,"Vanilla Cupcake",5,100,20,Delhi,Card,Delivered,400.00
+1069,2025-03-12,"Chocolate Truffle",1,300,15,Delhi,Card,Delivered,255.00
+1070,2025-03-01,Brownie,2,150,0,Delhi,Card,Delivered,300.00
+1071,2025-01-04,"Choco Chip Cookie",5,80,20,Mumbai,UPI,Delivered,320.00
+1072,2025-03-06,Brownie,3,150,5,Kanpur,Card,Delivered,427.50
+1073,2025-02-04,"Choco Chip Cookie",5,80,10,Noida,"Cash on Delivery",Cancelled,360.00
+1074,2025-01-02,"Chocolate Cake",1,400,20,Lucknow,UPI,Pending,320.00
+1075,2024-12-25,Brownie,4,150,5,Lucknow,UPI,Delivered,570.00
+1076,2025-01-03,"Choco Chip Cookie",3,80,15,Noida,Online,Delivered,204.00
+1077,2025-01-28,Brownie,2,150,10,Mumbai,"Cash on Delivery",Delivered,270.00
+1078,2025-03-25,"Chocolate Cake",1,400,5,Noida,UPI,Delivered,380.00
+1079,2025-02-21,"Jar Cake",2,250,0,Noida,UPI,Delivered,500.00
+1080,2025-02-05,"Vanilla Cupcake",2,100,20,Gurgaon,UPI,Delivered,160.00
+1081,2025-01-07,"Vanilla Cupcake",2,100,20,Lucknow,UPI,Delivered,160.00
+1082,2024-11-27,"Chocolate Cake",3,400,15,Noida,"Cash on Delivery",Delivered,1020.00
+1083,2025-01-30,"Chocolate Truffle",4,300,5,Noida,Online,Delivered,1140.00
+1084,2025-02-14,"Vanilla Cupcake",2,100,15,Gurgaon,Card,Delivered,170.00
+1085,2025-01-25,"Chocolate Truffle",5,300,10,Mumbai,Online,Delivered,1350.00
+1086,2025-01-05,"Choco Chip Cookie",3,80,5,Mumbai,UPI,Delivered,228.00
+1087,2024-12-20,"Chocolate Cake",3,400,0,Noida,UPI,Delivered,1200.00
+1088,2025-01-28,"Chocolate Cake",5,400,15,Kanpur,Card,Pending,1700.00
+1089,2025-01-08,"Chocolate Cake",2,400,5,Gurgaon,UPI,Delivered,760.00
+1090,2024-12-09,"Chocolate Cake",5,400,5,Delhi,"Cash on Delivery",Delivered,1900.00
+1091,2025-03-26,"Vanilla Cupcake",2,100,0,Kanpur,Online,Delivered,200.00
+1092,2025-01-08,"Chocolate Cake",3,400,0,Gurgaon,Card,Cancelled,1200.00
+1093,2024-12-09,"Choco Chip Cookie",2,80,20,Noida,"Cash on Delivery",Delivered,128.00
+1094,2024-12-11,"Chocolate Truffle",3,300,20,Mumbai,UPI,Delivered,720.00
+1095,2025-04-08,"Choco Chip Cookie",4,80,10,Lucknow,Card,Delivered,288.00
+1096,2024-11-23,"Vanilla Cupcake",3,100,0,Delhi,Online,Delivered,300.00
+1097,2025-04-21,"Chocolate Truffle",2,300,10,Gurgaon,"Cash on Delivery",Pending,540.00
+1098,2024-11-09,"Vanilla Cupcake",2,100,20,Gurgaon,Online,Delivered,160.00
+1099,2025-03-18,"Chocolate Cake",2,400,15,Gurgaon,Card,Cancelled,680.00
+1100,2025-04-12,"Vanilla Cupcake",2,100,20,Noida,UPI,Delivered,160.00
+1101,2025-01-22,"Vanilla Cupcake",1,100,15,Lucknow,Card,Delivered,85.00
+1102,2024-11-09,"Jar Cake",1,250,0,Kanpur,"Cash on Delivery",Delivered,250.00
+1103,2025-01-03,"Chocolate Truffle",2,300,10,Delhi,UPI,Delivered,540.00
+1104,2024-12-24,Brownie,5,150,20,Noida,UPI,Delivered,600.00
+1105,2025-04-21,"Chocolate Truffle",5,300,15,Lucknow,UPI,Delivered,1275.00
+1106,2025-01-30,"Jar Cake",3,250,20,Delhi,UPI,Delivered,600.00
+1107,2025-03-06,"Chocolate Truffle",2,300,0,Lucknow,UPI,Delivered,600.00
+1108,2024-11-10,"Choco Chip Cookie",1,80,5,Mumbai,UPI,Delivered,76.00
+1109,2025-01-24,"Choco Chip Cookie",1,80,20,Noida,UPI,Delivered,64.00
+1110,2025-03-06,"Choco Chip Cookie",2,80,20,Lucknow,UPI,Pending,128.00
+1111,2024-12-28,"Jar Cake",4,250,0,Lucknow,UPI,Delivered,1000.00
+1112,2025-03-04,"Choco Chip Cookie",2,80,15,Lucknow,"Cash on Delivery",Cancelled,136.00
+1113,2025-03-14,"Vanilla Cupcake",4,100,10,Lucknow,UPI,Pending,360.00
+1114,2024-11-15,Brownie,4,150,20,Kanpur,"Cash on Delivery",Delivered,480.00
+1115,2025-01-10,"Chocolate Cake",4,400,20,Lucknow,Online,Delivered,1280.00
+1116,2025-04-28,Brownie,4,150,0,Lucknow,"Cash on Delivery",Delivered,600.00
+1117,2025-01-19,"Choco Chip Cookie",2,80,5,Kanpur,"Cash on Delivery",Pending,152.00
+1118,2024-11-03,"Chocolate Truffle",3,300,10,Noida,"Cash on Delivery",Delivered,810.00
+1119,2025-03-03,Brownie,4,150,10,Gurgaon,Card,Delivered,540.00
+1120,2025-03-16,"Jar Cake",3,250,10,Gurgaon,Card,Delivered,675.00
+1121,2025-02-27,"Chocolate Truffle",4,300,5,Gurgaon,Online,Delivered,1140.00
+1122,2024-11-28,"Choco Chip Cookie",4,80,10,Gurgaon,Card,Delivered,288.00
+1123,2024-11-04,"Chocolate Cake",1,400,5,Kanpur,UPI,Pending,380.00
+1124,2025-04-30,"Chocolate Cake",4,400,10,Gurgaon,UPI,Delivered,1440.00
+1125,2025-04-17,Brownie,3,150,10,Mumbai,"Cash on Delivery",Delivered,405.00
+1126,2025-04-29,"Choco Chip Cookie",4,80,0,Mumbai,UPI,Delivered,320.00
+1127,2025-01-04,"Jar Cake",3,250,15,Delhi,Card,Delivered,637.50
+1128,2025-01-07,"Vanilla Cupcake",5,100,5,Delhi,UPI,Delivered,475.00
+1129,2025-04-01,"Choco Chip Cookie",2,80,5,Mumbai,Card,Pending,152.00
+1130,2024-12-08,"Chocolate Truffle",3,300,15,Kanpur,UPI,Delivered,765.00
+1131,2025-01-29,"Chocolate Truffle",2,300,10,Gurgaon,UPI,Delivered,540.00
+1132,2024-11-03,"Chocolate Cake",1,400,10,Kanpur,Card,Cancelled,360.00
+1133,2025-01-30,"Vanilla Cupcake",5,100,10,Gurgaon,UPI,Pending,450.00
+1134,2025-04-07,"Chocolate Truffle",4,300,0,Kanpur,Online,Delivered,1200.00
+1135,2024-11-30,"Choco Chip Cookie",2,80,0,Mumbai,Online,Delivered,160.00
+1136,2025-02-28,"Chocolate Truffle",5,300,20,Kanpur,Online,Delivered,1200.00
+1137,2024-11-04,"Chocolate Truffle",5,300,5,Noida,UPI,Delivered,1425.00
+1138,2025-02-16,"Chocolate Cake",5,400,15,Delhi,UPI,Delivered,1700.00
+1139,2025-01-06,Brownie,5,150,20,Noida,Online,Delivered,600.00
+1140,2025-03-08,"Chocolate Truffle",2,300,5,Kanpur,Online,Delivered,570.00
+1141,2025-01-30,Brownie,1,150,20,Mumbai,Online,Delivered,120.00
+1142,2025-04-01,Brownie,3,150,20,Delhi,"Cash on Delivery",Delivered,360.00
+1143,2024-11-02,"Chocolate Cake",4,400,10,Mumbai,Card,Delivered,1440.00
+1144,2024-12-20,Brownie,1,150,15,Gurgaon,UPI,Delivered,127.50
+1145,2025-04-16,"Jar Cake",5,250,15,Lucknow,Online,Delivered,1062.50
+1146,2025-01-31,"Chocolate Truffle",3,300,15,Lucknow,"Cash on Delivery",Delivered,765.00
+1147,2025-01-12,"Vanilla Cupcake",5,100,15,Kanpur,Online,Pending,425.00
+1148,2024-12-07,"Chocolate Cake",1,400,5,Delhi,UPI,Delivered,380.00
+1149,2024-12-25,"Jar Cake",3,250,5,Delhi,UPI,Delivered,712.50
+1150,2025-01-28,"Jar Cake",3,250,5,Mumbai,Card,Delivered,712.50
+1151,2024-12-27,"Chocolate Truffle",4,300,10,Noida,Online,Delivered,1080.00
+1152,2024-11-03,"Chocolate Truffle",1,300,20,Lucknow,Online,Delivered,240.00
+1153,2025-02-09,"Jar Cake",1,250,20,Mumbai,Online,Cancelled,200.00
+1154,2024-12-10,"Vanilla Cupcake",3,100,15,Kanpur,UPI,Pending,255.00
+1155,2025-01-01,"Jar Cake",1,250,0,Lucknow,UPI,Delivered,250.00
+1156,2024-11-13,Brownie,4,150,0,Delhi,"Cash on Delivery",Delivered,600.00
+1157,2024-12-06,"Chocolate Truffle",2,300,5,Mumbai,"Cash on Delivery",Cancelled,570.00
+1158,2025-04-14,Brownie,5,150,0,Kanpur,Card,Delivered,750.00
+1159,2024-12-19,"Jar Cake",3,250,10,Lucknow,"Cash on Delivery",Delivered,675.00
+1160,2024-11-19,"Choco Chip Cookie",1,80,0,Gurgaon,"Cash on Delivery",Delivered,80.00
+1161,2025-02-22,Brownie,3,150,10,Kanpur,Card,Delivered,405.00
+1162,2025-04-07,"Chocolate Cake",2,400,10,Kanpur,Card,Delivered,720.00
+1163,2025-02-25,"Chocolate Cake",5,400,15,Delhi,Online,Delivered,1700.00
+1164,2024-12-12,"Chocolate Truffle",4,300,0,Gurgaon,Online,Pending,1200.00
+1165,2025-03-17,"Vanilla Cupcake",4,100,10,Kanpur,Card,Delivered,360.00
+1166,2025-04-16,"Vanilla Cupcake",4,100,0,Delhi,Online,Pending,400.00
+1167,2024-11-19,"Chocolate Cake",2,400,15,Noida,Card,Delivered,680.00
+1168,2024-11-14,"Choco Chip Cookie",2,80,10,Kanpur,Online,Cancelled,144.00
+1169,2024-12-23,"Vanilla Cupcake",3,100,5,Delhi,UPI,Delivered,285.00
+1170,2025-01-03,"Chocolate Truffle",1,300,5,Noida,"Cash on Delivery",Delivered,285.00
+1171,2025-01-14,"Choco Chip Cookie",2,80,20,Kanpur,UPI,Delivered,128.00
+1172,2025-02-16,"Chocolate Truffle",4,300,10,Gurgaon,Card,Delivered,1080.00
+1173,2024-12-03,"Choco Chip Cookie",4,80,0,Noida,Online,Delivered,320.00
+1174,2025-03-29,Brownie,4,150,5,Delhi,Online,Delivered,570.00
+1175,2024-11-03,Brownie,3,150,0,Noida,"Cash on Delivery",Delivered,450.00
+1176,2025-01-13,Brownie,2,150,20,Kanpur,Online,Pending,240.00
+1177,2024-12-28,"Jar Cake",5,250,10,Kanpur,"Cash on Delivery",Delivered,1125.00
+1178,2025-04-30,"Chocolate Cake",2,400,10,Mumbai,Online,Cancelled,720.00
+1179,2025-03-20,Brownie,5,150,10,Delhi,Online,Delivered,675.00
+1180,2024-12-19,Brownie,3,150,5,Delhi,Card,Delivered,427.50
+1181,2025-03-07,"Choco Chip Cookie",2,80,10,Delhi,"Cash on Delivery",Delivered,144.00
+1182,2025-01-24,Brownie,3,150,20,Noida,Card,Delivered,360.00
+1183,2025-01-19,"Vanilla Cupcake",5,100,10,Gurgaon,UPI,Delivered,450.00
+1184,2025-01-27,"Jar Cake",1,250,0,Kanpur,"Cash on Delivery",Delivered,250.00
+1185,2024-11-26,"Chocolate Cake",3,400,15,Delhi,Card,Delivered,1020.00
+1186,2024-11-24,"Chocolate Truffle",1,300,0,Mumbai,UPI,Delivered,300.00
+1187,2025-04-25,"Choco Chip Cookie",3,80,0,Gurgaon,UPI,Delivered,240.00
+1188,2024-12-11,"Vanilla Cupcake",1,100,0,Kanpur,"Cash on Delivery",Delivered,100.00
+1189,2025-02-21,"Chocolate Cake",4,400,10,Noida,UPI,Delivered,1440.00
+1190,2025-03-12,"Vanilla Cupcake",3,100,0,Gurgaon,UPI,Delivered,300.00
+1191,2025-02-22,"Jar Cake",5,250,10,Delhi,"Cash on Delivery",Delivered,1125.00
+1192,2025-02-15,"Chocolate Truffle",3,300,5,Noida,"Cash on Delivery",Delivered,855.00
+1193,2025-02-15,"Choco Chip Cookie",3,80,15,Lucknow,UPI,Delivered,204.00
+1194,2025-01-13,"Choco Chip Cookie",4,80,0,Delhi,Online,Delivered,320.00
+1195,2025-04-07,"Chocolate Cake",1,400,15,Kanpur,Online,Delivered,340.00
+1196,2025-04-19,"Chocolate Truffle",2,300,10,Kanpur,Card,Delivered,540.00
+1197,2025-04-11,"Jar Cake",3,250,5,Gurgaon,"Cash on Delivery",Delivered,712.50
+1198,2025-01-21,"Choco Chip Cookie",3,80,15,Delhi,UPI,Delivered,204.00
+1199,2025-01-19,"Chocolate Cake",2,400,10,Mumbai,"Cash on Delivery",Delivered,720.00
+1200,2025-02-16,Brownie,5,150,0,Noida,UPI,Delivered,750.00
+1201,2024-11-18,"Choco Chip Cookie",5,80,5,Gurgaon,"Cash on Delivery",Cancelled,380.00
+1202,2025-04-27,"Chocolate Cake",4,400,5,Gurgaon,Online,Delivered,1520.00
+1203,2025-01-20,"Chocolate Truffle",5,300,5,Kanpur,Card,Delivered,1425.00
+1204,2024-12-16,"Choco Chip Cookie",3,80,5,Mumbai,"Cash on Delivery",Delivered,228.00
+1205,2025-02-28,"Chocolate Cake",2,400,20,Gurgaon,"Cash on Delivery",Delivered,640.00
+1206,2025-04-04,"Chocolate Cake",3,400,15,Mumbai,UPI,Delivered,1020.00
+1207,2025-03-28,"Choco Chip Cookie",2,80,15,Delhi,UPI,Pending,136.00
+1208,2025-03-22,"Chocolate Truffle",5,300,10,Gurgaon,Online,Delivered,1350.00
+1209,2025-04-02,"Chocolate Truffle",3,300,15,Gurgaon,"Cash on Delivery",Delivered,765.00
+1210,2025-03-26,"Jar Cake",3,250,20,Kanpur,Card,Delivered,600.00
+1211,2025-04-26,"Chocolate Truffle",5,300,10,Mumbai,Online,Delivered,1350.00
+1212,2025-01-27,"Choco Chip Cookie",2,80,5,Noida,"Cash on Delivery",Delivered,152.00
+1213,2025-04-06,"Choco Chip Cookie",4,80,10,Noida,"Cash on Delivery",Delivered,288.00
+1214,2024-11-03,"Vanilla Cupcake",4,100,15,Kanpur,Online,Delivered,340.00
+1215,2025-03-06,"Chocolate Cake",3,400,20,Lucknow,Card,Delivered,960.00
+1216,2025-01-28,"Jar Cake",5,250,10,Gurgaon,Card,Delivered,1125.00
+1217,2025-03-21,"Vanilla Cupcake",2,100,0,Kanpur,"Cash on Delivery",Delivered,200.00
+1218,2025-03-11,"Vanilla Cupcake",3,100,0,Gurgaon,UPI,Delivered,300.00
+1219,2024-12-27,"Chocolate Cake",4,400,10,Noida,"Cash on Delivery",Delivered,1440.00
+1220,2024-12-12,"Vanilla Cupcake",5,100,0,Delhi,UPI,Pending,500.00
+1221,2024-12-13,"Chocolate Truffle",5,300,0,Kanpur,Online,Delivered,1500.00
+1222,2024-12-06,"Chocolate Truffle",1,300,15,Mumbai,Card,Delivered,255.00
+1223,2025-04-23,"Choco Chip Cookie",4,80,5,Delhi,Online,Delivered,304.00
+1224,2025-04-05,"Vanilla Cupcake",2,100,15,Kanpur,"Cash on Delivery",Delivered,170.00
+1225,2024-12-10,"Choco Chip Cookie",1,80,15,Kanpur,Online,Delivered,68.00
+1226,2025-04-21,"Chocolate Cake",4,400,5,Lucknow,Online,Delivered,1520.00
+1227,2024-11-03,"Jar Cake",3,250,10,Delhi,UPI,Cancelled,675.00
+1228,2025-04-19,"Chocolate Cake",4,400,20,Lucknow,Card,Delivered,1280.00
+1229,2025-04-01,Brownie,2,150,20,Delhi,UPI,Delivered,240.00
+1230,2024-11-01,Brownie,2,150,10,Kanpur,Card,Delivered,270.00
+1231,2025-03-03,"Choco Chip Cookie",5,80,5,Noida,"Cash on Delivery",Delivered,380.00
+1232,2024-12-31,"Jar Cake",1,250,10,Delhi,"Cash on Delivery",Delivered,225.00
+1233,2025-01-21,"Vanilla Cupcake",1,100,20,Mumbai,"Cash on Delivery",Delivered,80.00
+1234,2025-02-18,Brownie,4,150,0,Delhi,Card,Delivered,600.00
+1235,2025-02-24,"Chocolate Truffle",3,300,15,Lucknow,UPI,Delivered,765.00
+1236,2025-02-23,"Choco Chip Cookie",4,80,15,Gurgaon,Card,Delivered,272.00
+1237,2024-12-25,"Vanilla Cupcake",5,100,10,Kanpur,Card,Pending,450.00
+1238,2025-01-03,"Jar Cake",1,250,10,Gurgaon,Card,Delivered,225.00
+1239,2025-04-07,"Chocolate Cake",5,400,0,Kanpur,Card,Delivered,2000.00
+1240,2025-04-11,Brownie,1,150,5,Noida,UPI,Cancelled,142.50
+1241,2024-12-30,"Jar Cake",3,250,20,Lucknow,UPI,Delivered,600.00
+1242,2025-02-22,"Chocolate Cake",1,400,10,Kanpur,Online,Delivered,360.00
+1243,2025-02-09,"Vanilla Cupcake",1,100,15,Lucknow,Card,Delivered,85.00
+1244,2025-03-26,"Vanilla Cupcake",4,100,10,Mumbai,UPI,Delivered,360.00
+1245,2025-02-06,"Jar Cake",3,250,5,Lucknow,UPI,Delivered,712.50
+1246,2024-11-11,"Choco Chip Cookie",2,80,20,Mumbai,Card,Delivered,128.00
+1247,2024-11-05,"Chocolate Truffle",5,300,0,Lucknow,"Cash on Delivery",Delivered,1500.00
+1248,2025-01-13,"Vanilla Cupcake",5,100,15,Delhi,"Cash on Delivery",Delivered,425.00
+1249,2024-12-03,"Chocolate Cake",5,400,10,Delhi,"Cash on Delivery",Delivered,1800.00
+1250,2025-01-09,"Vanilla Cupcake",3,100,15,Gurgaon,Card,Delivered,255.00
+1251,2025-02-28,"Chocolate Truffle",5,300,0,Mumbai,UPI,Delivered,1500.00
+1252,2025-03-11,Brownie,4,150,0,Lucknow,Online,Delivered,600.00
+1253,2024-11-07,"Jar Cake",3,250,5,Delhi,"Cash on Delivery",Delivered,712.50
+1254,2024-12-29,"Jar Cake",2,250,5,Delhi,Card,Delivered,475.00
+1255,2024-12-06,"Vanilla Cupcake",1,100,5,Lucknow,"Cash on Delivery",Delivered,95.00
+1256,2025-04-24,"Jar Cake",5,250,15,Noida,UPI,Delivered,1062.50
+1257,2025-03-21,"Choco Chip Cookie",5,80,0,Kanpur,Online,Delivered,400.00
+1258,2025-03-10,"Jar Cake",5,250,0,Kanpur,Online,Delivered,1250.00
+1259,2024-12-06,"Chocolate Truffle",2,300,10,Gurgaon,"Cash on Delivery",Delivered,540.00
+1260,2025-02-17,"Chocolate Cake",1,400,5,Mumbai,Card,Delivered,380.00
+1261,2025-04-06,"Choco Chip Cookie",5,80,15,Gurgaon,Card,Delivered,340.00
+1262,2024-11-19,Brownie,4,150,20,Noida,Card,Delivered,480.00
+1263,2025-03-27,"Vanilla Cupcake",5,100,20,Delhi,Card,Delivered,400.00
+1264,2025-04-28,"Vanilla Cupcake",4,100,10,Kanpur,Online,Delivered,360.00
+1265,2025-01-06,"Chocolate Cake",5,400,15,Lucknow,Card,Delivered,1700.00
+1266,2025-01-09,"Chocolate Truffle",4,300,5,Delhi,UPI,Delivered,1140.00
+1267,2025-04-25,"Vanilla Cupcake",2,100,10,Gurgaon,UPI,Delivered,180.00
+1268,2024-11-13,"Vanilla Cupcake",4,100,0,Kanpur,Card,Delivered,400.00
+1269,2025-01-13,"Jar Cake",3,250,0,Mumbai,Online,Delivered,750.00
+1270,2024-12-03,"Jar Cake",3,250,5,Gurgaon,"Cash on Delivery",Delivered,712.50
+1271,2025-01-21,"Jar Cake",1,250,5,Noida,Card,Delivered,237.50
+1272,2024-12-04,"Chocolate Cake",3,400,20,Delhi,Online,Delivered,960.00
+1273,2025-03-04,"Choco Chip Cookie",3,80,0,Lucknow,UPI,Delivered,240.00
+1274,2024-12-19,"Vanilla Cupcake",1,100,20,Mumbai,Online,Cancelled,80.00
+1275,2024-11-28,"Chocolate Cake",1,400,5,Gurgaon,Card,Delivered,380.00
+1276,2024-12-13,Brownie,4,150,20,Kanpur,UPI,Delivered,480.00
+1277,2024-11-04,"Chocolate Truffle",2,300,15,Noida,Online,Delivered,510.00
+1278,2025-03-08,"Chocolate Cake",3,400,15,Noida,Card,Delivered,1020.00
+1279,2025-02-26,Brownie,1,150,20,Lucknow,Card,Delivered,120.00
+1280,2024-12-02,"Vanilla Cupcake",5,100,5,Delhi,UPI,Delivered,475.00
+1281,2024-12-24,"Jar Cake",1,250,15,Mumbai,UPI,Delivered,212.50
+1282,2025-04-18,"Jar Cake",2,250,20,Gurgaon,"Cash on Delivery",Delivered,400.00
+1283,2025-03-08,"Jar Cake",3,250,10,Kanpur,UPI,Delivered,675.00
+1284,2025-02-16,"Chocolate Truffle",2,300,20,Mumbai,"Cash on Delivery",Cancelled,480.00
+1285,2025-01-30,Brownie,5,150,0,Delhi,"Cash on Delivery",Cancelled,750.00
+1286,2025-01-05,"Chocolate Cake",2,400,5,Mumbai,Online,Delivered,760.00
+1287,2025-04-30,"Chocolate Truffle",4,300,20,Gurgaon,Online,Delivered,960.00
+1288,2025-03-23,"Choco Chip Cookie",4,80,20,Gurgaon,Online,Delivered,256.00
+1289,2024-11-08,"Vanilla Cupcake",2,100,5,Delhi,Online,Delivered,190.00
+1290,2025-03-19,Brownie,1,150,15,Kanpur,UPI,Delivered,127.50
+1291,2024-12-19,"Vanilla Cupcake",1,100,0,Gurgaon,Card,Pending,100.00
+1292,2025-03-22,"Vanilla Cupcake",2,100,5,Lucknow,UPI,Cancelled,190.00
+1293,2025-04-13,"Choco Chip Cookie",1,80,5,Kanpur,UPI,Delivered,76.00
+1294,2025-01-31,"Vanilla Cupcake",3,100,20,Gurgaon,Card,Delivered,240.00
+1295,2025-01-20,"Chocolate Truffle",2,300,20,Noida,UPI,Delivered,480.00
+1296,2024-11-22,"Chocolate Truffle",2,300,5,Noida,Online,Delivered,570.00
+1297,2025-02-13,"Chocolate Cake",2,400,20,Gurgaon,"Cash on Delivery",Delivered,640.00
+1298,2024-11-11,"Vanilla Cupcake",4,100,10,Kanpur,Online,Delivered,360.00
+1299,2025-03-11,"Vanilla Cupcake",1,100,15,Mumbai,Online,Delivered,85.00
+1300,2024-12-20,Brownie,5,150,0,Delhi,Online,Delivered,750.00
+1301,2025-02-12,"Chocolate Truffle",2,300,10,Kanpur,"Cash on Delivery",Delivered,540.00
+1302,2025-01-04,"Chocolate Truffle",4,300,5,Noida,"Cash on Delivery",Delivered,1140.00
+1303,2025-02-12,"Chocolate Cake",1,400,15,Mumbai,Online,Delivered,340.00
+1304,2025-01-07,"Choco Chip Cookie",3,80,5,Mumbai,"Cash on Delivery",Delivered,228.00
+1305,2024-12-05,"Chocolate Cake",5,400,10,Mumbai,Online,Delivered,1800.00
+1306,2025-03-08,"Choco Chip Cookie",3,80,20,Mumbai,Card,Delivered,192.00
+1307,2025-04-30,"Vanilla Cupcake",5,100,5,Mumbai,Card,Delivered,475.00
+1308,2024-11-13,Brownie,1,150,10,Lucknow,"Cash on Delivery",Delivered,135.00
+1309,2024-11-17,"Choco Chip Cookie",2,80,0,Noida,Card,Delivered,160.00
+1310,2025-02-10,"Jar Cake",2,250,5,Noida,Online,Delivered,475.00
+1311,2025-03-07,Brownie,2,150,5,Mumbai,Card,Delivered,285.00
+1312,2025-03-18,"Vanilla Cupcake",5,100,5,Lucknow,"Cash on Delivery",Delivered,475.00
+1313,2025-02-20,"Choco Chip Cookie",1,80,10,Gurgaon,Card,Delivered,72.00
+1314,2025-01-20,"Vanilla Cupcake",2,100,20,Kanpur,Online,Delivered,160.00
+1315,2024-11-15,"Chocolate Cake",1,400,5,Lucknow,Online,Delivered,380.00
+1316,2025-04-07,"Choco Chip Cookie",3,80,10,Mumbai,Card,Delivered,216.00
+1317,2024-11-20,"Choco Chip Cookie",3,80,5,Lucknow,UPI,Delivered,228.00
+1318,2025-02-25,"Vanilla Cupcake",2,100,5,Gurgaon,Card,Delivered,190.00
+1319,2024-12-06,"Vanilla Cupcake",2,100,15,Lucknow,Online,Delivered,170.00
+1320,2025-02-19,"Chocolate Cake",1,400,20,Noida,UPI,Delivered,320.00
+1321,2025-01-07,Brownie,1,150,10,Kanpur,"Cash on Delivery",Delivered,135.00
+1322,2024-12-15,"Jar Cake",3,250,5,Gurgaon,Card,Delivered,712.50
+1323,2025-01-06,"Jar Cake",2,250,10,Gurgaon,Online,Delivered,450.00
+1324,2025-04-22,"Chocolate Truffle",2,300,15,Delhi,UPI,Delivered,510.00
+1325,2025-02-13,"Chocolate Truffle",3,300,0,Kanpur,Online,Delivered,900.00
+1326,2025-03-09,"Vanilla Cupcake",2,100,5,Kanpur,Online,Pending,190.00
+1327,2024-12-27,"Jar Cake",4,250,0,Delhi,Card,Pending,1000.00
+1328,2024-11-13,"Choco Chip Cookie",2,80,10,Delhi,Card,Delivered,144.00
+1329,2024-12-12,"Choco Chip Cookie",5,80,20,Noida,"Cash on Delivery",Pending,320.00
+1330,2025-02-23,"Chocolate Truffle",5,300,15,Mumbai,"Cash on Delivery",Delivered,1275.00
+1331,2025-02-10,"Chocolate Cake",1,400,5,Kanpur,Online,Delivered,380.00
+1332,2024-11-07,"Jar Cake",4,250,20,Noida,Card,Delivered,800.00
+1333,2024-11-26,"Choco Chip Cookie",5,80,5,Lucknow,Card,Delivered,380.00
+1334,2025-03-17,"Chocolate Cake",5,400,10,Gurgaon,Online,Delivered,1800.00
+1335,2025-01-14,"Choco Chip Cookie",5,80,5,Delhi,UPI,Delivered,380.00
+1336,2024-12-04,"Chocolate Cake",1,400,0,Mumbai,Online,Delivered,400.00
+1337,2025-03-12,"Jar Cake",5,250,0,Gurgaon,Online,Delivered,1250.00
+1338,2025-01-12,"Vanilla Cupcake",5,100,10,Lucknow,"Cash on Delivery",Delivered,450.00
+1339,2024-11-27,Brownie,4,150,20,Noida,UPI,Delivered,480.00
+1340,2025-01-31,"Choco Chip Cookie",5,80,5,Kanpur,"Cash on Delivery",Delivered,380.00
+1341,2025-04-24,"Jar Cake",3,250,20,Gurgaon,UPI,Delivered,600.00
+1342,2025-02-06,"Chocolate Truffle",5,300,0,Kanpur,Online,Delivered,1500.00
+1343,2024-11-04,Brownie,4,150,20,Noida,"Cash on Delivery",Delivered,480.00
+1344,2025-01-25,"Chocolate Truffle",2,300,20,Delhi,UPI,Pending,480.00
+1345,2025-01-11,"Vanilla Cupcake",1,100,5,Delhi,UPI,Delivered,95.00
+1346,2025-01-21,"Chocolate Cake",1,400,10,Kanpur,Card,Delivered,360.00
+1347,2024-12-09,"Vanilla Cupcake",1,100,15,Lucknow,UPI,Delivered,85.00
+1348,2025-01-07,"Chocolate Truffle",4,300,5,Lucknow,Card,Delivered,1140.00
+1349,2025-01-05,"Vanilla Cupcake",5,100,5,Gurgaon,Card,Delivered,475.00
+1350,2024-12-06,"Vanilla Cupcake",2,100,0,Gurgaon,Card,Delivered,200.00
+1351,2025-01-20,"Choco Chip Cookie",3,80,15,Gurgaon,"Cash on Delivery",Cancelled,204.00
+1352,2024-11-30,"Chocolate Cake",3,400,0,Gurgaon,Card,Delivered,1200.00
+1353,2024-12-12,"Vanilla Cupcake",4,100,20,Gurgaon,"Cash on Delivery",Pending,320.00
+1354,2024-12-14,Brownie,3,150,20,Mumbai,UPI,Delivered,360.00
+1355,2025-02-17,"Chocolate Truffle",3,300,0,Lucknow,"Cash on Delivery",Delivered,900.00
+1356,2024-12-16,Brownie,4,150,5,Mumbai,Card,Delivered,570.00
+1357,2025-03-16,"Chocolate Truffle",5,300,15,Noida,UPI,Delivered,1275.00
+1358,2024-11-09,"Vanilla Cupcake",2,100,20,Mumbai,UPI,Delivered,160.00
+1359,2025-03-26,"Choco Chip Cookie",1,80,0,Kanpur,Online,Delivered,80.00
+1360,2025-03-03,"Choco Chip Cookie",3,80,0,Noida,Card,Delivered,240.00
+1361,2025-03-20,"Vanilla Cupcake",4,100,15,Noida,"Cash on Delivery",Delivered,340.00
+1362,2024-11-03,"Chocolate Cake",3,400,5,Mumbai,UPI,Delivered,1140.00
+1363,2024-11-06,Brownie,3,150,20,Noida,Card,Delivered,360.00
+1364,2025-03-27,"Choco Chip Cookie",2,80,20,Kanpur,Online,Pending,128.00
+1365,2025-02-06,Brownie,5,150,15,Kanpur,Online,Delivered,637.50
+1366,2024-11-11,"Chocolate Cake",4,400,20,Kanpur,UPI,Delivered,1280.00
+1367,2025-01-12,"Jar Cake",1,250,10,Lucknow,Card,Delivered,225.00
+1368,2025-02-17,"Chocolate Truffle",4,300,0,Mumbai,"Cash on Delivery",Delivered,1200.00
+1369,2025-01-16,"Chocolate Cake",2,400,10,Mumbai,Card,Delivered,720.00
+1370,2025-04-01,Brownie,5,150,5,Lucknow,Online,Delivered,712.50
+1371,2024-12-23,"Vanilla Cupcake",1,100,20,Gurgaon,UPI,Delivered,80.00
+1372,2025-02-22,"Choco Chip Cookie",4,80,5,Noida,UPI,Pending,304.00
+1373,2025-01-27,"Vanilla Cupcake",2,100,20,Gurgaon,UPI,Delivered,160.00
+1374,2025-03-17,Brownie,3,150,15,Gurgaon,UPI,Delivered,382.50
+1375,2025-04-04,"Chocolate Cake",4,400,0,Lucknow,UPI,Delivered,1600.00
+1376,2025-02-12,"Vanilla Cupcake",2,100,0,Lucknow,"Cash on Delivery",Delivered,200.00
+1377,2024-12-16,"Vanilla Cupcake",2,100,20,Lucknow,Card,Delivered,160.00
+1378,2024-12-20,"Vanilla Cupcake",5,100,10,Gurgaon,Card,Delivered,450.00
+1379,2025-01-31,"Chocolate Cake",5,400,0,Lucknow,Card,Delivered,2000.00
+1380,2024-12-23,Brownie,3,150,0,Noida,"Cash on Delivery",Delivered,450.00
+1381,2024-12-19,"Chocolate Cake",3,400,15,Mumbai,Online,Delivered,1020.00
+1382,2025-01-18,Brownie,3,150,15,Mumbai,UPI,Delivered,382.50
+1383,2025-04-27,"Chocolate Cake",4,400,20,Gurgaon,"Cash on Delivery",Delivered,1280.00
+1384,2025-03-08,"Vanilla Cupcake",1,100,5,Gurgaon,Card,Delivered,95.00
+1385,2025-03-01,"Choco Chip Cookie",5,80,5,Delhi,Card,Delivered,380.00
+1386,2025-01-05,"Jar Cake",2,250,20,Delhi,Card,Delivered,400.00
+1387,2025-01-30,"Chocolate Truffle",4,300,5,Noida,UPI,Delivered,1140.00
+1388,2025-01-30,"Choco Chip Cookie",2,80,10,Mumbai,Online,Delivered,144.00
+1389,2025-02-21,"Choco Chip Cookie",3,80,0,Delhi,Online,Delivered,240.00
+1390,2025-01-12,"Chocolate Truffle",4,300,5,Noida,Online,Delivered,1140.00
+1391,2024-11-04,"Vanilla Cupcake",1,100,15,Gurgaon,"Cash on Delivery",Delivered,85.00
+1392,2025-03-03,"Chocolate Truffle",2,300,20,Delhi,Online,Pending,480.00
+1393,2024-11-21,"Choco Chip Cookie",1,80,20,Lucknow,UPI,Delivered,64.00
+1394,2024-11-15,"Jar Cake",2,250,20,Kanpur,Card,Delivered,400.00
+1395,2025-03-02,"Jar Cake",5,250,5,Noida,UPI,Delivered,1187.50
+1396,2025-01-18,"Jar Cake",1,250,0,Kanpur,UPI,Delivered,250.00
+1397,2025-01-13,Brownie,3,150,20,Kanpur,"Cash on Delivery",Delivered,360.00
+1398,2025-04-18,Brownie,5,150,5,Kanpur,Card,Delivered,712.50
+1399,2024-12-01,"Chocolate Cake",4,400,5,Noida,UPI,Delivered,1520.00
+1400,2025-03-28,Brownie,5,150,20,Kanpur,"Cash on Delivery",Delivered,600.00
+1401,2024-11-24,"Choco Chip Cookie",5,80,20,Delhi,"Cash on Delivery",Pending,320.00
+1402,2025-01-05,Brownie,1,150,15,Kanpur,"Cash on Delivery",Delivered,127.50
+1403,2024-11-28,"Chocolate Truffle",5,300,5,Lucknow,"Cash on Delivery",Delivered,1425.00
+1404,2025-04-21,"Chocolate Truffle",3,300,10,Gurgaon,Online,Delivered,810.00
+1405,2024-12-21,"Vanilla Cupcake",3,100,0,Noida,Online,Delivered,300.00
+1406,2025-04-11,"Chocolate Cake",3,400,10,Gurgaon,Online,Delivered,1080.00
+1407,2025-01-13,Brownie,3,150,10,Kanpur,Online,Delivered,405.00
+1408,2025-04-21,"Chocolate Truffle",2,300,5,Delhi,Card,Delivered,570.00
+1409,2025-04-01,Brownie,3,150,10,Delhi,Card,Delivered,405.00
+1410,2025-04-08,"Vanilla Cupcake",1,100,20,Mumbai,Online,Delivered,80.00
+1411,2025-02-27,"Choco Chip Cookie",4,80,0,Lucknow,"Cash on Delivery",Delivered,320.00
+1412,2025-02-12,"Chocolate Truffle",1,300,10,Delhi,Card,Delivered,270.00
+1413,2024-11-25,Brownie,3,150,10,Kanpur,"Cash on Delivery",Delivered,405.00
+1414,2025-03-24,"Jar Cake",2,250,15,Noida,UPI,Delivered,425.00
+1415,2025-03-20,"Jar Cake",5,250,5,Mumbai,Card,Delivered,1187.50
+1416,2025-01-11,Brownie,2,150,15,Delhi,Card,Delivered,255.00
+1417,2025-01-12,"Jar Cake",2,250,20,Gurgaon,"Cash on Delivery",Delivered,400.00
+1418,2025-02-20,"Chocolate Cake",5,400,20,Lucknow,UPI,Delivered,1600.00
+1419,2025-03-14,Brownie,2,150,10,Noida,Online,Delivered,270.00
+1420,2025-04-17,"Jar Cake",2,250,0,Lucknow,Card,Delivered,500.00
+1421,2025-02-12,"Chocolate Truffle",4,300,20,Gurgaon,UPI,Delivered,960.00
+1422,2025-03-16,"Choco Chip Cookie",1,80,5,Noida,Online,Delivered,76.00
+1423,2025-03-22,Brownie,1,150,20,Lucknow,"Cash on Delivery",Delivered,120.00
+1424,2024-12-10,Brownie,3,150,5,Noida,UPI,Cancelled,427.50
+1425,2024-12-18,"Chocolate Cake",5,400,20,Delhi,Online,Delivered,1600.00
+1426,2024-12-27,"Chocolate Cake",1,400,5,Mumbai,"Cash on Delivery",Delivered,380.00
+1427,2025-03-25,"Chocolate Cake",5,400,10,Gurgaon,UPI,Delivered,1800.00
+1428,2025-02-16,"Vanilla Cupcake",2,100,10,Delhi,Online,Delivered,180.00
+1429,2025-02-21,"Choco Chip Cookie",3,80,0,Delhi,"Cash on Delivery",Delivered,240.00
+1430,2025-02-03,"Choco Chip Cookie",3,80,10,Lucknow,UPI,Pending,216.00
+1431,2024-11-02,"Choco Chip Cookie",5,80,10,Delhi,UPI,Delivered,360.00
+1432,2025-01-27,Brownie,1,150,10,Kanpur,"Cash on Delivery",Delivered,135.00
+1433,2025-03-30,Brownie,5,150,20,Delhi,UPI,Delivered,600.00
+1434,2025-04-21,"Chocolate Cake",3,400,15,Gurgaon,"Cash on Delivery",Delivered,1020.00
+1435,2024-12-20,"Vanilla Cupcake",3,100,0,Delhi,"Cash on Delivery",Delivered,300.00
+1436,2025-01-05,Brownie,2,150,15,Noida,Online,Delivered,255.00
+1437,2025-03-28,Brownie,3,150,0,Lucknow,Card,Delivered,450.00
+1438,2024-12-16,"Vanilla Cupcake",3,100,20,Kanpur,Online,Pending,240.00
+1439,2024-12-25,"Vanilla Cupcake",1,100,0,Kanpur,Online,Delivered,100.00
+1440,2025-03-09,"Chocolate Cake",1,400,10,Kanpur,Online,Delivered,360.00
+1441,2024-11-25,"Jar Cake",2,250,5,Delhi,Online,Delivered,475.00
+1442,2025-02-18,Brownie,5,150,5,Mumbai,Online,Delivered,712.50
+1443,2025-01-25,"Choco Chip Cookie",3,80,0,Mumbai,"Cash on Delivery",Delivered,240.00
+1444,2024-11-13,"Chocolate Cake",1,400,20,Delhi,Online,Delivered,320.00
+1445,2024-11-16,"Jar Cake",1,250,5,Mumbai,Online,Delivered,237.50
+1446,2025-04-02,"Chocolate Truffle",4,300,10,Kanpur,UPI,Delivered,1080.00
+1447,2024-12-21,"Chocolate Truffle",3,300,5,Mumbai,Card,Delivered,855.00
+1448,2025-01-26,"Jar Cake",5,250,20,Mumbai,Card,Delivered,1000.00
+1449,2024-12-22,"Chocolate Cake",1,400,15,Kanpur,Online,Delivered,340.00
+1450,2025-02-09,"Jar Cake",5,250,15,Kanpur,Card,Delivered,1062.50
+1451,2025-04-10,"Vanilla Cupcake",2,100,10,Noida,"Cash on Delivery",Pending,180.00
+1452,2025-04-16,"Chocolate Truffle",3,300,20,Lucknow,Card,Delivered,720.00
+1453,2025-04-19,"Vanilla Cupcake",2,100,20,Delhi,Online,Delivered,160.00
+1454,2024-11-27,"Jar Cake",5,250,0,Lucknow,"Cash on Delivery",Delivered,1250.00
+1455,2025-01-13,Brownie,2,150,15,Gurgaon,Online,Pending,255.00
+1456,2024-11-29,Brownie,1,150,20,Kanpur,UPI,Delivered,120.00
+1457,2025-01-09,"Chocolate Truffle",5,300,5,Gurgaon,"Cash on Delivery",Pending,1425.00
+1458,2024-11-09,"Vanilla Cupcake",2,100,0,Mumbai,Online,Delivered,200.00
+1459,2025-01-02,"Vanilla Cupcake",1,100,5,Mumbai,"Cash on Delivery",Delivered,95.00
+1460,2024-12-16,Brownie,2,150,10,Gurgaon,"Cash on Delivery",Delivered,270.00
+1461,2024-11-27,"Choco Chip Cookie",3,80,10,Noida,Online,Delivered,216.00
+1462,2025-02-21,"Jar Cake",2,250,10,Noida,Online,Delivered,450.00
+1463,2024-11-08,"Vanilla Cupcake",5,100,10,Noida,Card,Delivered,450.00
+1464,2025-01-19,"Choco Chip Cookie",5,80,20,Gurgaon,UPI,Delivered,320.00
+1465,2025-04-25,"Choco Chip Cookie",1,80,0,Delhi,Online,Delivered,80.00
+1466,2025-02-03,"Chocolate Cake",3,400,5,Lucknow,Card,Pending,1140.00
+1467,2025-01-12,"Choco Chip Cookie",3,80,0,Kanpur,"Cash on Delivery",Delivered,240.00
+1468,2025-04-29,"Choco Chip Cookie",4,80,5,Mumbai,Online,Delivered,304.00
+1469,2025-02-27,"Chocolate Truffle",1,300,5,Lucknow,Online,Delivered,285.00
+1470,2025-01-06,"Jar Cake",3,250,10,Delhi,UPI,Delivered,675.00
+1471,2024-12-21,"Vanilla Cupcake",5,100,0,Gurgaon,Card,Delivered,500.00
+1472,2025-01-06,"Choco Chip Cookie",5,80,20,Noida,Online,Delivered,320.00
+1473,2025-03-24,"Vanilla Cupcake",3,100,20,Kanpur,UPI,Delivered,240.00
+1474,2024-11-08,"Choco Chip Cookie",3,80,10,Noida,"Cash on Delivery",Delivered,216.00
+1475,2024-12-19,"Vanilla Cupcake",4,100,20,Lucknow,Card,Delivered,320.00
+1476,2025-02-14,"Choco Chip Cookie",4,80,5,Mumbai,Card,Pending,304.00
+1477,2024-11-04,Brownie,5,150,20,Mumbai,Card,Delivered,600.00
+1478,2025-03-11,"Vanilla Cupcake",4,100,10,Noida,Card,Delivered,360.00
+1479,2024-12-06,"Chocolate Cake",1,400,15,Delhi,Card,Delivered,340.00
+1480,2025-03-22,"Jar Cake",4,250,0,Mumbai,UPI,Delivered,1000.00
+1481,2025-02-01,"Choco Chip Cookie",5,80,5,Lucknow,UPI,Delivered,380.00
+1482,2024-11-09,"Vanilla Cupcake",3,100,20,Lucknow,Online,Delivered,240.00
+1483,2024-12-05,"Chocolate Truffle",4,300,10,Lucknow,Online,Delivered,1080.00
+1484,2025-01-08,"Chocolate Truffle",1,300,5,Kanpur,"Cash on Delivery",Delivered,285.00
+1485,2025-01-29,"Jar Cake",3,250,5,Kanpur,Card,Pending,712.50
+1486,2025-02-17,"Chocolate Truffle",3,300,5,Kanpur,"Cash on Delivery",Delivered,855.00
+1487,2025-01-06,"Chocolate Cake",4,400,15,Gurgaon,UPI,Delivered,1360.00
+1488,2025-01-06,Brownie,2,150,10,Delhi,"Cash on Delivery",Delivered,270.00
+1489,2025-02-07,"Chocolate Truffle",2,300,5,Kanpur,Online,Delivered,570.00
+1490,2025-01-18,"Jar Cake",3,250,10,Lucknow,"Cash on Delivery",Delivered,675.00
+1491,2024-12-29,"Chocolate Cake",1,400,15,Gurgaon,UPI,Delivered,340.00
+1492,2025-01-31,"Choco Chip Cookie",5,80,10,Mumbai,Online,Delivered,360.00
+1493,2024-11-08,"Chocolate Cake",3,400,5,Mumbai,Card,Delivered,1140.00
+1494,2025-02-19,"Vanilla Cupcake",4,100,15,Delhi,Online,Delivered,340.00
+1495,2025-02-19,"Chocolate Cake",1,400,20,Mumbai,Online,Delivered,320.00
+1496,2025-04-11,"Vanilla Cupcake",5,100,0,Delhi,"Cash on Delivery",Delivered,500.00
+1497,2025-04-01,"Choco Chip Cookie",3,80,20,Lucknow,UPI,Delivered,192.00
+1498,2025-04-10,"Jar Cake",5,250,5,Delhi,UPI,Delivered,1187.50
+1499,2025-04-25,"Choco Chip Cookie",3,80,10,Noida,Online,Delivered,216.00
+1500,2025-03-19,"Choco Chip Cookie",3,80,0,Delhi,"Cash on Delivery",Delivered,240.00
+1501,2024-12-16,Brownie,5,150,20,Delhi,UPI,Delivered,600.00
+1502,2024-11-12,"Jar Cake",2,250,15,Mumbai,Online,Delivered,425.00
+1503,2024-11-12,Brownie,4,150,5,Mumbai,Online,Delivered,570.00
+1504,2025-02-06,"Chocolate Truffle",2,300,10,Mumbai,Online,Cancelled,540.00
+1505,2025-01-23,"Choco Chip Cookie",5,80,15,Noida,"Cash on Delivery",Delivered,340.00
+1506,2025-01-08,"Chocolate Cake",2,400,10,Kanpur,Card,Delivered,720.00
+1507,2024-11-23,"Vanilla Cupcake",1,100,5,Lucknow,UPI,Delivered,95.00
+1508,2025-02-11,"Vanilla Cupcake",2,100,20,Delhi,UPI,Delivered,160.00
+1509,2024-12-04,"Chocolate Cake",2,400,20,Delhi,Card,Delivered,640.00
+1510,2024-12-09,Brownie,5,150,20,Gurgaon,Online,Delivered,600.00
+1511,2025-03-15,"Jar Cake",5,250,20,Kanpur,Card,Delivered,1000.00
+1512,2025-04-04,"Vanilla Cupcake",2,100,10,Noida,UPI,Delivered,180.00
+1513,2024-12-04,"Jar Cake",3,250,10,Kanpur,"Cash on Delivery",Delivered,675.00
+1514,2024-12-13,"Choco Chip Cookie",3,80,20,Mumbai,"Cash on Delivery",Delivered,192.00
+1515,2025-02-18,"Chocolate Truffle",2,300,20,Noida,"Cash on Delivery",Delivered,480.00
+1516,2025-04-27,"Chocolate Truffle",5,300,0,Delhi,Online,Delivered,1500.00
+1517,2024-11-04,"Chocolate Cake",1,400,20,Noida,Online,Delivered,320.00
+1518,2025-02-16,"Choco Chip Cookie",4,80,5,Delhi,Online,Delivered,304.00
+1519,2025-01-13,"Jar Cake",1,250,20,Delhi,Online,Delivered,200.00
+1520,2024-11-26,"Chocolate Cake",1,400,20,Gurgaon,Online,Delivered,320.00
+1521,2025-03-10,"Choco Chip Cookie",3,80,20,Gurgaon,UPI,Delivered,192.00
+1522,2025-02-18,"Chocolate Truffle",1,300,20,Gurgaon,"Cash on Delivery",Delivered,240.00
+1523,2024-12-28,"Chocolate Cake",1,400,5,Noida,"Cash on Delivery",Delivered,380.00
+1524,2025-02-03,"Jar Cake",3,250,15,Mumbai,UPI,Delivered,637.50
+1525,2024-12-17,"Chocolate Truffle",4,300,5,Delhi,UPI,Delivered,1140.00
+1526,2025-01-11,Brownie,1,150,0,Gurgaon,Online,Delivered,150.00
+1527,2025-03-18,"Jar Cake",2,250,15,Gurgaon,Card,Delivered,425.00
+1528,2025-01-09,"Chocolate Truffle",3,300,10,Kanpur,Online,Delivered,810.00
+1529,2025-03-28,"Chocolate Cake",2,400,5,Mumbai,"Cash on Delivery",Delivered,760.00
+1530,2025-02-27,"Jar Cake",5,250,0,Kanpur,"Cash on Delivery",Delivered,1250.00
+1531,2024-12-03,"Chocolate Cake",3,400,20,Mumbai,UPI,Delivered,960.00
+1532,2024-12-30,Brownie,1,150,10,Kanpur,UPI,Delivered,135.00
+1533,2025-03-20,"Chocolate Cake",5,400,5,Kanpur,UPI,Delivered,1900.00
+1534,2025-01-05,"Choco Chip Cookie",4,80,5,Gurgaon,UPI,Delivered,304.00
+1535,2024-11-21,"Vanilla Cupcake",5,100,10,Delhi,UPI,Delivered,450.00
+1536,2025-02-28,"Chocolate Truffle",5,300,15,Gurgaon,Card,Delivered,1275.00
+1537,2024-12-27,"Vanilla Cupcake",2,100,5,Mumbai,UPI,Delivered,190.00
+1538,2025-01-04,"Chocolate Truffle",1,300,0,Kanpur,Online,Delivered,300.00
+1539,2025-02-09,"Vanilla Cupcake",3,100,15,Kanpur,Online,Cancelled,255.00
+1540,2025-03-08,"Choco Chip Cookie",4,80,15,Noida,Online,Delivered,272.00
+1541,2025-04-25,"Vanilla Cupcake",5,100,0,Gurgaon,Card,Delivered,500.00
+1542,2024-12-10,"Chocolate Truffle",5,300,20,Lucknow,UPI,Cancelled,1200.00
+1543,2025-03-27,"Chocolate Cake",2,400,10,Kanpur,"Cash on Delivery",Delivered,720.00
+1544,2024-12-08,"Chocolate Truffle",1,300,15,Noida,UPI,Delivered,255.00
+1545,2025-02-08,"Chocolate Cake",1,400,20,Kanpur,UPI,Delivered,320.00
+1546,2024-12-02,"Vanilla Cupcake",4,100,20,Delhi,Online,Delivered,320.00
+1547,2025-02-09,"Chocolate Cake",4,400,0,Lucknow,"Cash on Delivery",Delivered,1600.00
+1548,2024-12-08,"Jar Cake",2,250,20,Mumbai,Card,Delivered,400.00
+1549,2025-03-26,"Chocolate Truffle",2,300,5,Kanpur,Card,Delivered,570.00
+1550,2025-01-28,"Jar Cake",4,250,15,Mumbai,UPI,Delivered,850.00
+1551,2025-03-30,"Vanilla Cupcake",5,100,10,Lucknow,Card,Delivered,450.00
+1552,2025-02-25,"Jar Cake",5,250,0,Kanpur,UPI,Delivered,1250.00
+1553,2025-04-07,"Choco Chip Cookie",4,80,20,Lucknow,"Cash on Delivery",Delivered,256.00
+1554,2025-02-02,"Choco Chip Cookie",4,80,5,Noida,UPI,Delivered,304.00
+1555,2025-01-04,"Chocolate Cake",1,400,20,Mumbai,Card,Delivered,320.00
+1556,2025-03-23,"Vanilla Cupcake",3,100,15,Lucknow,Card,Delivered,255.00
+1557,2025-01-23,"Chocolate Cake",2,400,15,Lucknow,Card,Delivered,680.00
+1558,2025-04-01,"Chocolate Truffle",5,300,10,Noida,UPI,Delivered,1350.00
+1559,2025-01-06,"Choco Chip Cookie",1,80,15,Kanpur,"Cash on Delivery",Delivered,68.00
+1560,2025-01-07,"Choco Chip Cookie",4,80,0,Gurgaon,Online,Delivered,320.00
+1561,2025-02-26,Brownie,3,150,0,Gurgaon,"Cash on Delivery",Delivered,450.00
+1562,2024-12-31,"Choco Chip Cookie",3,80,5,Lucknow,Card,Delivered,228.00
+1563,2025-04-30,"Choco Chip Cookie",5,80,10,Delhi,Card,Delivered,360.00
+1564,2025-01-30,"Choco Chip Cookie",3,80,0,Gurgaon,UPI,Delivered,240.00
+1565,2025-01-25,"Jar Cake",4,250,0,Noida,"Cash on Delivery",Delivered,1000.00
+1566,2024-11-12,"Chocolate Cake",5,400,0,Lucknow,Online,Delivered,2000.00
+1567,2025-04-19,"Vanilla Cupcake",4,100,20,Mumbai,"Cash on Delivery",Pending,320.00
+1568,2025-04-21,"Jar Cake",5,250,15,Mumbai,Card,Delivered,1062.50
+1569,2025-04-22,"Vanilla Cupcake",4,100,20,Gurgaon,"Cash on Delivery",Pending,320.00
+1570,2025-04-03,"Chocolate Cake",4,400,5,Gurgaon,UPI,Delivered,1520.00
+1571,2025-04-27,"Choco Chip Cookie",1,80,15,Gurgaon,Card,Delivered,68.00
+1572,2025-03-30,"Chocolate Cake",1,400,10,Delhi,Online,Delivered,360.00
+1573,2024-12-12,"Choco Chip Cookie",2,80,10,Mumbai,UPI,Delivered,144.00
+1574,2024-12-20,"Chocolate Truffle",2,300,20,Delhi,"Cash on Delivery",Delivered,480.00
+1575,2024-12-16,"Vanilla Cupcake",1,100,10,Kanpur,Card,Delivered,90.00
+1576,2025-03-21,"Vanilla Cupcake",3,100,5,Noida,"Cash on Delivery",Delivered,285.00
+1577,2024-12-04,"Jar Cake",1,250,15,Gurgaon,Card,Delivered,212.50
+1578,2024-12-04,"Jar Cake",4,250,20,Delhi,Card,Delivered,800.00
+1579,2025-04-24,"Choco Chip Cookie",1,80,15,Mumbai,Online,Delivered,68.00
+1580,2025-04-04,"Chocolate Truffle",2,300,10,Lucknow,Online,Delivered,540.00
+1581,2025-03-15,"Chocolate Truffle",4,300,5,Mumbai,Card,Delivered,1140.00
+1582,2024-12-19,Brownie,1,150,20,Mumbai,"Cash on Delivery",Cancelled,120.00
+1583,2025-03-11,"Jar Cake",5,250,0,Lucknow,Card,Delivered,1250.00
+1584,2024-11-18,"Vanilla Cupcake",1,100,0,Gurgaon,Online,Delivered,100.00
+1585,2025-01-28,Brownie,5,150,0,Gurgaon,UPI,Delivered,750.00
+1586,2025-02-13,"Choco Chip Cookie",4,80,10,Delhi,Online,Delivered,288.00
+1587,2025-02-04,"Chocolate Truffle",5,300,15,Delhi,Online,Delivered,1275.00
+1588,2025-03-12,"Choco Chip Cookie",2,80,10,Lucknow,"Cash on Delivery",Delivered,144.00
+1589,2025-01-10,Brownie,1,150,0,Lucknow,UPI,Delivered,150.00
+1590,2025-03-26,"Chocolate Cake",2,400,15,Kanpur,"Cash on Delivery",Delivered,680.00
+1591,2025-03-15,"Choco Chip Cookie",4,80,10,Delhi,UPI,Delivered,288.00
+1592,2025-02-27,"Vanilla Cupcake",2,100,5,Gurgaon,Online,Delivered,190.00
+1593,2025-01-09,"Chocolate Truffle",1,300,0,Delhi,Card,Delivered,300.00
+1594,2025-01-18,"Choco Chip Cookie",2,80,0,Kanpur,"Cash on Delivery",Delivered,160.00
+1595,2025-02-03,"Chocolate Cake",4,400,5,Kanpur,Card,Cancelled,1520.00
+1596,2025-03-01,"Jar Cake",2,250,20,Kanpur,UPI,Pending,400.00
+1597,2025-01-18,"Chocolate Cake",3,400,10,Mumbai,Card,Cancelled,1080.00
+1598,2024-11-06,"Chocolate Cake",4,400,0,Lucknow,Online,Delivered,1600.00
+1599,2025-02-24,"Choco Chip Cookie",5,80,5,Noida,UPI,Delivered,380.00
+1600,2024-12-18,"Choco Chip Cookie",3,80,15,Mumbai,"Cash on Delivery",Delivered,204.00
+1601,2025-01-09,Brownie,1,150,15,Delhi,"Cash on Delivery",Delivered,127.50
+1602,2025-03-14,"Choco Chip Cookie",2,80,20,Delhi,Online,Delivered,128.00
+1603,2025-04-28,"Choco Chip Cookie",4,80,10,Delhi,"Cash on Delivery",Delivered,288.00
+1604,2025-04-25,"Choco Chip Cookie",4,80,10,Kanpur,Online,Pending,288.00
+1605,2025-03-26,"Chocolate Truffle",3,300,0,Gurgaon,Card,Delivered,900.00
+1606,2024-11-01,"Choco Chip Cookie",3,80,10,Gurgaon,UPI,Delivered,216.00
+1607,2025-04-01,"Chocolate Truffle",5,300,20,Delhi,UPI,Delivered,1200.00
+1608,2024-12-25,"Vanilla Cupcake",2,100,20,Gurgaon,UPI,Delivered,160.00
+1609,2025-04-05,Brownie,2,150,5,Mumbai,Card,Delivered,285.00
+1610,2024-12-25,Brownie,3,150,0,Delhi,Online,Pending,450.00
+1611,2024-11-19,"Choco Chip Cookie",3,80,20,Delhi,"Cash on Delivery",Delivered,192.00
+1612,2024-11-24,"Chocolate Cake",1,400,10,Lucknow,"Cash on Delivery",Delivered,360.00
+1613,2025-04-06,"Chocolate Cake",3,400,20,Gurgaon,Online,Pending,960.00
+1614,2025-03-07,"Jar Cake",2,250,5,Gurgaon,Online,Delivered,475.00
+1615,2025-02-18,"Choco Chip Cookie",4,80,10,Mumbai,UPI,Delivered,288.00
+1616,2024-12-20,Brownie,5,150,20,Delhi,Card,Delivered,600.00
+1617,2024-11-18,"Jar Cake",5,250,20,Gurgaon,Card,Delivered,1000.00
+1618,2025-01-03,Brownie,5,150,5,Gurgaon,Online,Delivered,712.50
+1619,2025-01-09,"Choco Chip Cookie",4,80,20,Mumbai,Online,Delivered,256.00
+1620,2025-04-21,"Chocolate Cake",4,400,20,Delhi,"Cash on Delivery",Delivered,1280.00
+1621,2025-02-16,"Choco Chip Cookie",4,80,10,Kanpur,Card,Delivered,288.00
+1622,2025-01-29,"Chocolate Cake",3,400,5,Delhi,UPI,Delivered,1140.00
+1623,2025-04-02,"Jar Cake",3,250,20,Kanpur,UPI,Delivered,600.00
+1624,2025-03-18,"Choco Chip Cookie",4,80,10,Noida,"Cash on Delivery",Delivered,288.00
+1625,2024-12-11,"Chocolate Cake",5,400,20,Noida,UPI,Delivered,1600.00
+1626,2025-03-21,"Chocolate Cake",4,400,20,Delhi,UPI,Delivered,1280.00
+1627,2025-02-27,"Vanilla Cupcake",3,100,10,Noida,Card,Delivered,270.00
+1628,2025-04-20,"Chocolate Truffle",1,300,20,Kanpur,Online,Cancelled,240.00
+1629,2025-04-04,"Jar Cake",5,250,0,Noida,"Cash on Delivery",Delivered,1250.00
+1630,2025-01-27,Brownie,2,150,15,Kanpur,"Cash on Delivery",Delivered,255.00
+1631,2024-11-11,"Choco Chip Cookie",3,80,10,Delhi,UPI,Delivered,216.00
+1632,2025-03-04,"Chocolate Truffle",2,300,15,Delhi,"Cash on Delivery",Delivered,510.00
+1633,2024-12-16,"Jar Cake",3,250,0,Lucknow,UPI,Pending,750.00
+1634,2024-11-12,Brownie,4,150,10,Kanpur,Card,Delivered,540.00
+1635,2025-03-27,"Jar Cake",4,250,20,Delhi,UPI,Delivered,800.00
+1636,2025-01-07,"Choco Chip Cookie",5,80,15,Kanpur,Online,Delivered,340.00
+1637,2025-01-24,Brownie,4,150,15,Mumbai,Card,Delivered,510.00
+1638,2025-01-09,Brownie,2,150,0,Gurgaon,Card,Delivered,300.00
+1639,2024-12-28,"Jar Cake",2,250,10,Delhi,Online,Delivered,450.00
+1640,2025-02-16,"Choco Chip Cookie",2,80,20,Mumbai,UPI,Delivered,128.00
+1641,2024-11-16,Brownie,1,150,20,Gurgaon,Card,Delivered,120.00
+1642,2025-02-11,Brownie,4,150,5,Lucknow,Card,Delivered,570.00
+1643,2025-04-21,"Vanilla Cupcake",5,100,20,Kanpur,"Cash on Delivery",Delivered,400.00
+1644,2025-04-29,"Jar Cake",4,250,10,Kanpur,UPI,Delivered,900.00
+1645,2025-04-14,"Vanilla Cupcake",2,100,10,Delhi,UPI,Delivered,180.00
+1646,2024-12-17,Brownie,1,150,15,Kanpur,Card,Delivered,127.50
+1647,2025-01-01,"Chocolate Truffle",5,300,0,Mumbai,Card,Delivered,1500.00
+1648,2025-02-07,"Chocolate Truffle",1,300,15,Gurgaon,Online,Delivered,255.00
+1649,2024-11-15,"Choco Chip Cookie",5,80,5,Kanpur,Online,Delivered,380.00
+1650,2025-02-03,"Chocolate Cake",5,400,0,Lucknow,Card,Pending,2000.00
+1651,2025-03-09,"Choco Chip Cookie",3,80,5,Delhi,UPI,Delivered,228.00
+1652,2024-11-05,"Vanilla Cupcake",1,100,0,Kanpur,Online,Delivered,100.00
+1653,2024-11-07,"Chocolate Truffle",2,300,10,Kanpur,Card,Delivered,540.00
+1654,2025-02-24,Brownie,3,150,5,Gurgaon,Card,Delivered,427.50
+1655,2025-01-28,"Chocolate Truffle",4,300,10,Kanpur,Card,Cancelled,1080.00
+1656,2025-03-17,"Chocolate Cake",3,400,5,Delhi,Card,Delivered,1140.00
+1657,2025-01-27,"Chocolate Truffle",1,300,20,Delhi,Online,Delivered,240.00
+1658,2024-12-28,"Jar Cake",4,250,20,Kanpur,Online,Delivered,800.00
+1659,2025-02-10,"Jar Cake",4,250,5,Noida,Card,Delivered,950.00
+1660,2025-01-06,"Vanilla Cupcake",2,100,15,Noida,Online,Delivered,170.00
+1661,2025-03-05,"Jar Cake",3,250,15,Mumbai,"Cash on Delivery",Delivered,637.50
+1662,2025-03-08,"Vanilla Cupcake",3,100,0,Lucknow,Card,Delivered,300.00
+1663,2025-03-24,"Vanilla Cupcake",2,100,20,Kanpur,Card,Delivered,160.00
+1664,2024-12-16,"Choco Chip Cookie",3,80,0,Mumbai,UPI,Delivered,240.00
+1665,2025-01-05,"Choco Chip Cookie",2,80,20,Noida,Card,Pending,128.00
+1666,2025-03-10,Brownie,2,150,10,Lucknow,Card,Delivered,270.00
+1667,2024-12-03,"Choco Chip Cookie",1,80,0,Lucknow,"Cash on Delivery",Delivered,80.00
+1668,2025-04-15,"Jar Cake",1,250,20,Lucknow,Card,Delivered,200.00
+1669,2025-04-12,"Vanilla Cupcake",4,100,0,Gurgaon,Online,Delivered,400.00
+1670,2024-12-17,Brownie,1,150,15,Kanpur,"Cash on Delivery",Delivered,127.50
+1671,2025-03-26,"Chocolate Truffle",4,300,10,Delhi,Card,Delivered,1080.00
+1672,2025-02-03,Brownie,3,150,10,Kanpur,UPI,Delivered,405.00
+1673,2025-04-27,"Chocolate Cake",3,400,5,Lucknow,Online,Delivered,1140.00
+1674,2024-12-22,"Jar Cake",3,250,15,Kanpur,Online,Delivered,637.50
+1675,2024-12-20,"Chocolate Truffle",2,300,5,Kanpur,Online,Delivered,570.00
+1676,2025-04-11,"Chocolate Truffle",5,300,5,Kanpur,"Cash on Delivery",Delivered,1425.00
+1677,2025-01-24,"Jar Cake",1,250,5,Delhi,"Cash on Delivery",Delivered,237.50
+1678,2025-04-24,"Jar Cake",4,250,0,Gurgaon,"Cash on Delivery",Delivered,1000.00
+1679,2025-03-31,"Vanilla Cupcake",3,100,15,Mumbai,Online,Pending,255.00
+1680,2025-01-03,"Vanilla Cupcake",1,100,20,Mumbai,"Cash on Delivery",Delivered,80.00
+1681,2025-03-02,"Chocolate Cake",2,400,15,Mumbai,UPI,Delivered,680.00
+1682,2024-12-02,"Chocolate Cake",3,400,10,Mumbai,Card,Delivered,1080.00
+1683,2025-02-21,"Vanilla Cupcake",4,100,0,Gurgaon,UPI,Delivered,400.00
+1684,2024-11-06,"Chocolate Cake",5,400,10,Lucknow,Card,Delivered,1800.00
+1685,2025-01-28,"Choco Chip Cookie",1,80,5,Gurgaon,Card,Delivered,76.00
+1686,2025-02-08,"Chocolate Truffle",4,300,15,Kanpur,Card,Delivered,1020.00
+1687,2024-12-16,"Vanilla Cupcake",2,100,0,Mumbai,"Cash on Delivery",Delivered,200.00
+1688,2025-01-13,"Jar Cake",5,250,15,Delhi,Online,Pending,1062.50
+1689,2025-03-10,Brownie,5,150,0,Gurgaon,Online,Pending,750.00
+1690,2025-01-03,"Chocolate Cake",2,400,15,Delhi,UPI,Delivered,680.00
+1691,2025-04-29,"Chocolate Cake",4,400,15,Kanpur,Online,Delivered,1360.00
+1692,2025-03-24,"Chocolate Truffle",1,300,5,Delhi,UPI,Delivered,285.00
+1693,2025-02-14,"Jar Cake",3,250,5,Mumbai,UPI,Delivered,712.50
+1694,2025-01-19,"Chocolate Truffle",3,300,15,Kanpur,Card,Delivered,765.00
+1695,2024-11-12,"Choco Chip Cookie",1,80,15,Gurgaon,Online,Delivered,68.00
+1696,2024-12-29,"Chocolate Truffle",1,300,5,Gurgaon,Online,Delivered,285.00
+1697,2024-11-15,"Vanilla Cupcake",2,100,5,Mumbai,"Cash on Delivery",Delivered,190.00
+1698,2025-03-18,"Choco Chip Cookie",3,80,10,Delhi,Online,Delivered,216.00
+1699,2025-04-30,"Chocolate Truffle",5,300,10,Mumbai,Online,Pending,1350.00
+1700,2025-01-24,"Chocolate Truffle",3,300,15,Gurgaon,"Cash on Delivery",Delivered,765.00
+1701,2025-02-16,"Vanilla Cupcake",2,100,10,Delhi,Online,Delivered,180.00
+1702,2024-12-20,"Chocolate Truffle",1,300,20,Delhi,UPI,Cancelled,240.00
+1703,2024-12-11,Brownie,5,150,5,Lucknow,Card,Delivered,712.50
+1704,2025-03-26,"Chocolate Truffle",4,300,15,Delhi,UPI,Delivered,1020.00
+1705,2024-11-06,Brownie,1,150,20,Delhi,"Cash on Delivery",Pending,120.00
+1706,2025-04-14,"Chocolate Truffle",1,300,10,Delhi,UPI,Delivered,270.00
+1707,2025-02-18,"Choco Chip Cookie",2,80,20,Kanpur,Online,Delivered,128.00
+1708,2025-03-23,"Vanilla Cupcake",4,100,15,Lucknow,"Cash on Delivery",Delivered,340.00
+1709,2025-02-20,"Chocolate Cake",2,400,10,Gurgaon,UPI,Delivered,720.00
+1710,2025-04-27,"Chocolate Cake",2,400,5,Kanpur,Card,Delivered,760.00
+1711,2025-01-14,"Jar Cake",3,250,10,Delhi,UPI,Cancelled,675.00
+1712,2024-11-15,"Chocolate Cake",2,400,10,Mumbai,UPI,Pending,720.00
+1713,2025-01-20,"Chocolate Cake",1,400,10,Lucknow,"Cash on Delivery",Delivered,360.00
+1714,2025-03-30,"Jar Cake",3,250,20,Noida,"Cash on Delivery",Delivered,600.00
+1715,2025-04-02,"Chocolate Cake",2,400,15,Kanpur,Online,Delivered,680.00
+1716,2025-02-10,"Vanilla Cupcake",3,100,0,Noida,UPI,Delivered,300.00
+1717,2025-02-01,"Choco Chip Cookie",5,80,10,Kanpur,"Cash on Delivery",Delivered,360.00
+1718,2024-11-29,"Chocolate Cake",4,400,10,Noida,Online,Pending,1440.00
+1719,2024-11-22,Brownie,2,150,10,Gurgaon,"Cash on Delivery",Delivered,270.00
+1720,2025-04-17,"Jar Cake",2,250,0,Mumbai,Card,Delivered,500.00
+1721,2025-01-22,"Chocolate Cake",3,400,15,Delhi,UPI,Delivered,1020.00
+1722,2025-04-15,"Choco Chip Cookie",4,80,0,Mumbai,Card,Delivered,320.00
+1723,2025-03-04,"Chocolate Truffle",1,300,5,Delhi,Online,Delivered,285.00
+1724,2024-11-18,"Chocolate Truffle",2,300,15,Kanpur,"Cash on Delivery",Delivered,510.00
+1725,2025-03-14,"Chocolate Truffle",1,300,20,Delhi,Card,Delivered,240.00
+1726,2025-04-08,"Choco Chip Cookie",1,80,20,Lucknow,Card,Delivered,64.00
+1727,2025-02-07,"Chocolate Truffle",3,300,5,Lucknow,Card,Delivered,855.00
+1728,2025-01-08,"Chocolate Cake",4,400,5,Noida,UPI,Delivered,1520.00
+1729,2025-02-18,"Choco Chip Cookie",1,80,20,Mumbai,UPI,Pending,64.00
+1730,2025-01-04,"Choco Chip Cookie",3,80,15,Gurgaon,UPI,Delivered,204.00
+1731,2025-04-01,"Chocolate Cake",3,400,15,Kanpur,"Cash on Delivery",Delivered,1020.00
+1732,2024-11-10,"Chocolate Truffle",2,300,5,Noida,Online,Delivered,570.00
+1733,2025-03-23,"Jar Cake",3,250,20,Mumbai,"Cash on Delivery",Pending,600.00
+1734,2025-02-17,"Chocolate Truffle",1,300,20,Mumbai,"Cash on Delivery",Delivered,240.00
+1735,2024-12-20,"Choco Chip Cookie",4,80,20,Gurgaon,Online,Delivered,256.00
+1736,2024-11-14,"Jar Cake",4,250,0,Lucknow,UPI,Pending,1000.00
+1737,2025-01-16,"Choco Chip Cookie",5,80,15,Kanpur,UPI,Delivered,340.00
+1738,2024-11-01,"Jar Cake",2,250,0,Noida,UPI,Delivered,500.00
+1739,2024-12-11,"Chocolate Truffle",1,300,10,Gurgaon,UPI,Delivered,270.00
+1740,2025-04-29,"Jar Cake",1,250,10,Kanpur,"Cash on Delivery",Delivered,225.00
+1741,2025-02-22,"Jar Cake",3,250,10,Noida,Online,Delivered,675.00
+1742,2025-03-30,Brownie,4,150,5,Gurgaon,"Cash on Delivery",Delivered,570.00
+1743,2025-01-20,"Chocolate Truffle",5,300,15,Lucknow,UPI,Delivered,1275.00
+1744,2025-01-27,"Vanilla Cupcake",1,100,10,Gurgaon,Card,Delivered,90.00
+1745,2025-02-07,"Vanilla Cupcake",1,100,10,Gurgaon,Card,Delivered,90.00
+1746,2025-02-23,"Chocolate Cake",4,400,0,Delhi,UPI,Cancelled,1600.00
+1747,2025-03-14,"Chocolate Truffle",2,300,15,Mumbai,Online,Delivered,510.00
+1748,2024-12-04,"Chocolate Cake",3,400,15,Delhi,UPI,Delivered,1020.00
+1749,2024-12-01,Brownie,3,150,10,Mumbai,UPI,Delivered,405.00
+1750,2025-01-22,"Choco Chip Cookie",1,80,20,Noida,Online,Delivered,64.00
+1751,2024-11-23,"Chocolate Cake",4,400,20,Delhi,Card,Delivered,1280.00
+1752,2025-04-28,"Choco Chip Cookie",3,80,15,Mumbai,UPI,Delivered,204.00
+1753,2025-02-03,Brownie,3,150,0,Lucknow,"Cash on Delivery",Delivered,450.00
+1754,2024-12-25,"Jar Cake",2,250,20,Gurgaon,Card,Delivered,400.00
+1755,2025-04-22,"Vanilla Cupcake",5,100,15,Gurgaon,"Cash on Delivery",Delivered,425.00
+1756,2025-04-18,"Choco Chip Cookie",2,80,0,Mumbai,Card,Cancelled,160.00
+1757,2025-03-26,Brownie,5,150,20,Delhi,Card,Pending,600.00
+1758,2025-03-07,"Chocolate Truffle",5,300,10,Lucknow,UPI,Delivered,1350.00
+1759,2024-11-13,"Chocolate Cake",5,400,0,Delhi,"Cash on Delivery",Delivered,2000.00
+1760,2025-03-17,"Vanilla Cupcake",3,100,15,Mumbai,Card,Delivered,255.00
+1761,2025-02-16,Brownie,2,150,20,Gurgaon,"Cash on Delivery",Delivered,240.00
+1762,2025-03-12,"Chocolate Cake",1,400,20,Lucknow,Online,Delivered,320.00
+1763,2025-03-17,"Chocolate Cake",1,400,15,Mumbai,Card,Delivered,340.00
+1764,2025-03-21,"Chocolate Truffle",5,300,20,Mumbai,Card,Delivered,1200.00
+1765,2025-01-26,"Choco Chip Cookie",4,80,15,Kanpur,Online,Delivered,272.00
+1766,2024-11-05,"Choco Chip Cookie",4,80,20,Mumbai,Card,Delivered,256.00
+1767,2025-02-01,Brownie,5,150,10,Gurgaon,Online,Delivered,675.00
+1768,2024-11-22,"Jar Cake",5,250,0,Kanpur,UPI,Delivered,1250.00
+1769,2025-04-19,"Choco Chip Cookie",3,80,5,Noida,UPI,Delivered,228.00
+1770,2024-12-18,"Chocolate Truffle",3,300,10,Delhi,UPI,Pending,810.00
+1771,2025-02-14,"Jar Cake",4,250,20,Delhi,Online,Delivered,800.00
+1772,2024-12-22,"Choco Chip Cookie",5,80,0,Kanpur,Card,Delivered,400.00
+1773,2025-04-25,"Chocolate Truffle",5,300,10,Mumbai,Card,Delivered,1350.00
+1774,2024-11-26,Brownie,5,150,10,Lucknow,UPI,Cancelled,675.00
+1775,2024-12-04,Brownie,2,150,15,Delhi,UPI,Delivered,255.00
+1776,2024-11-07,Brownie,4,150,10,Mumbai,UPI,Delivered,540.00
+1777,2025-01-15,"Choco Chip Cookie",2,80,20,Mumbai,Online,Delivered,128.00
+1778,2025-02-09,Brownie,1,150,20,Delhi,"Cash on Delivery",Delivered,120.00
+1779,2025-04-16,"Chocolate Truffle",1,300,15,Lucknow,Online,Cancelled,255.00
+1780,2024-11-25,"Chocolate Truffle",5,300,15,Mumbai,Online,Delivered,1275.00
+1781,2025-04-19,"Jar Cake",4,250,0,Noida,Card,Delivered,1000.00
+1782,2024-11-01,"Chocolate Truffle",4,300,0,Gurgaon,Card,Delivered,1200.00
+1783,2024-12-03,Brownie,4,150,10,Delhi,UPI,Delivered,540.00
+1784,2024-12-25,"Chocolate Cake",4,400,5,Mumbai,Online,Delivered,1520.00
+1785,2024-12-14,"Vanilla Cupcake",1,100,10,Gurgaon,Online,Delivered,90.00
+1786,2025-03-07,"Choco Chip Cookie",5,80,5,Gurgaon,UPI,Delivered,380.00
+1787,2025-02-23,Brownie,3,150,10,Noida,UPI,Delivered,405.00
+1788,2025-04-01,"Chocolate Cake",4,400,10,Delhi,"Cash on Delivery",Delivered,1440.00
+1789,2024-12-27,"Vanilla Cupcake",4,100,15,Delhi,"Cash on Delivery",Delivered,340.00
+1790,2025-03-29,Brownie,4,150,20,Noida,"Cash on Delivery",Delivered,480.00
+1791,2025-03-19,"Vanilla Cupcake",4,100,20,Gurgaon,Card,Delivered,320.00
+1792,2025-02-11,Brownie,5,150,0,Noida,"Cash on Delivery",Delivered,750.00
+1793,2025-04-30,"Choco Chip Cookie",2,80,10,Delhi,"Cash on Delivery",Delivered,144.00
+1794,2025-03-05,"Jar Cake",5,250,10,Delhi,UPI,Delivered,1125.00
+1795,2024-11-27,"Vanilla Cupcake",1,100,0,Kanpur,UPI,Delivered,100.00
+1796,2024-12-05,"Chocolate Cake",1,400,20,Kanpur,Card,Delivered,320.00
+1797,2024-12-17,"Vanilla Cupcake",4,100,15,Lucknow,"Cash on Delivery",Delivered,340.00
+1798,2025-02-28,"Chocolate Cake",3,400,0,Kanpur,UPI,Pending,1200.00
+1799,2024-12-10,"Choco Chip Cookie",5,80,5,Mumbai,Card,Delivered,380.00
+1800,2024-11-25,"Choco Chip Cookie",1,80,5,Delhi,"Cash on Delivery",Delivered,76.00
+1801,2025-01-22,"Jar Cake",3,250,10,Delhi,UPI,Delivered,675.00
+1802,2024-11-13,"Chocolate Cake",3,400,20,Noida,"Cash on Delivery",Delivered,960.00
+1803,2025-03-01,"Jar Cake",1,250,0,Delhi,Online,Delivered,250.00
+1804,2024-12-14,"Choco Chip Cookie",2,80,5,Gurgaon,Card,Delivered,152.00
+1805,2025-03-21,"Jar Cake",2,250,15,Kanpur,"Cash on Delivery",Delivered,425.00
+1806,2025-02-24,"Chocolate Cake",5,400,0,Kanpur,Card,Delivered,2000.00
+1807,2025-04-05,"Jar Cake",3,250,0,Kanpur,UPI,Delivered,750.00
+1808,2024-12-25,Brownie,1,150,15,Lucknow,Online,Delivered,127.50
+1809,2024-12-19,"Vanilla Cupcake",4,100,5,Delhi,Online,Delivered,380.00
+1810,2025-04-18,Brownie,5,150,0,Lucknow,UPI,Delivered,750.00
+1811,2025-01-02,"Choco Chip Cookie",3,80,0,Mumbai,Online,Delivered,240.00
+1812,2025-03-10,"Vanilla Cupcake",1,100,15,Gurgaon,Online,Delivered,85.00
+1813,2025-04-13,Brownie,4,150,5,Delhi,Card,Delivered,570.00
+1814,2024-11-29,Brownie,5,150,0,Lucknow,Online,Delivered,750.00
+1815,2024-11-07,"Chocolate Cake",3,400,0,Lucknow,Card,Delivered,1200.00
+1816,2025-04-10,"Chocolate Truffle",2,300,5,Delhi,Card,Delivered,570.00
+1817,2025-02-17,"Chocolate Cake",4,400,10,Gurgaon,Online,Delivered,1440.00
+1818,2024-12-28,"Chocolate Cake",4,400,20,Mumbai,"Cash on Delivery",Delivered,1280.00
+1819,2025-03-31,"Chocolate Truffle",1,300,20,Mumbai,"Cash on Delivery",Delivered,240.00
+1820,2024-11-08,"Chocolate Truffle",2,300,0,Mumbai,UPI,Delivered,600.00
+1821,2025-02-24,"Chocolate Truffle",1,300,5,Mumbai,Online,Delivered,285.00
+1822,2025-04-21,"Vanilla Cupcake",4,100,0,Lucknow,UPI,Delivered,400.00
+1823,2025-01-02,"Choco Chip Cookie",1,80,15,Kanpur,Card,Delivered,68.00
+1824,2024-12-02,"Chocolate Cake",3,400,5,Gurgaon,"Cash on Delivery",Delivered,1140.00
+1825,2025-01-07,"Vanilla Cupcake",5,100,15,Lucknow,"Cash on Delivery",Delivered,425.00
+1826,2025-02-11,"Chocolate Truffle",4,300,5,Mumbai,UPI,Delivered,1140.00
+1827,2025-04-05,"Vanilla Cupcake",5,100,20,Delhi,Card,Delivered,400.00
+1828,2025-04-24,"Vanilla Cupcake",4,100,0,Mumbai,"Cash on Delivery",Pending,400.00
+1829,2025-01-11,"Jar Cake",1,250,20,Gurgaon,Online,Delivered,200.00
+1830,2025-04-16,Brownie,1,150,20,Noida,Card,Pending,120.00
+1831,2025-02-12,"Vanilla Cupcake",1,100,20,Noida,Online,Delivered,80.00
+1832,2025-01-10,"Vanilla Cupcake",4,100,0,Kanpur,Card,Delivered,400.00
+1833,2025-04-24,"Vanilla Cupcake",5,100,10,Delhi,UPI,Delivered,450.00
+1834,2024-11-12,"Jar Cake",4,250,5,Gurgaon,Online,Delivered,950.00
+1835,2025-01-28,"Jar Cake",4,250,15,Noida,Card,Delivered,850.00
+1836,2025-01-30,"Chocolate Cake",3,400,20,Kanpur,Online,Delivered,960.00
+1837,2025-02-20,"Choco Chip Cookie",2,80,0,Mumbai,Online,Delivered,160.00
+1838,2025-02-09,"Choco Chip Cookie",2,80,5,Noida,"Cash on Delivery",Delivered,152.00
+1839,2024-12-24,Brownie,2,150,20,Kanpur,"Cash on Delivery",Delivered,240.00
+1840,2025-01-20,"Vanilla Cupcake",1,100,15,Lucknow,"Cash on Delivery",Delivered,85.00
+1841,2024-12-09,"Chocolate Truffle",5,300,0,Kanpur,Card,Delivered,1500.00
+1842,2025-03-08,"Chocolate Truffle",2,300,15,Delhi,Card,Delivered,510.00
+1843,2024-12-18,"Choco Chip Cookie",4,80,5,Lucknow,Online,Delivered,304.00
+1844,2025-03-12,Brownie,5,150,20,Kanpur,Card,Delivered,600.00
+1845,2025-04-14,"Vanilla Cupcake",2,100,0,Mumbai,"Cash on Delivery",Delivered,200.00
+1846,2025-04-15,"Choco Chip Cookie",4,80,15,Lucknow,"Cash on Delivery",Delivered,272.00
+1847,2025-01-10,"Jar Cake",5,250,20,Delhi,"Cash on Delivery",Delivered,1000.00
+1848,2025-03-03,"Choco Chip Cookie",5,80,5,Lucknow,UPI,Delivered,380.00
+1849,2024-12-07,"Chocolate Truffle",5,300,15,Gurgaon,Online,Delivered,1275.00
+1850,2025-03-30,"Choco Chip Cookie",1,80,15,Kanpur,UPI,Delivered,68.00
+1851,2025-02-01,"Chocolate Cake",1,400,20,Noida,"Cash on Delivery",Delivered,320.00
+1852,2025-04-06,Brownie,2,150,5,Gurgaon,Online,Delivered,285.00
+1853,2025-04-21,"Choco Chip Cookie",4,80,20,Mumbai,Card,Delivered,256.00
+1854,2025-03-10,Brownie,4,150,20,Gurgaon,Online,Pending,480.00
+1855,2024-12-31,"Choco Chip Cookie",2,80,10,Noida,UPI,Delivered,144.00
+1856,2025-03-10,"Choco Chip Cookie",2,80,10,Delhi,UPI,Cancelled,144.00
+1857,2025-02-28,"Choco Chip Cookie",2,80,15,Gurgaon,UPI,Delivered,136.00
+1858,2024-11-01,"Jar Cake",4,250,0,Mumbai,Card,Delivered,1000.00
+1859,2025-04-20,"Vanilla Cupcake",5,100,0,Kanpur,UPI,Delivered,500.00
+1860,2025-04-08,"Jar Cake",1,250,5,Gurgaon,"Cash on Delivery",Delivered,237.50
+1861,2024-12-22,"Jar Cake",1,250,0,Lucknow,"Cash on Delivery",Delivered,250.00
+1862,2025-03-02,"Vanilla Cupcake",1,100,10,Gurgaon,"Cash on Delivery",Delivered,90.00
+1863,2025-02-10,Brownie,2,150,10,Kanpur,Card,Delivered,270.00
+1864,2024-11-05,Brownie,5,150,5,Noida,Online,Delivered,712.50
+1865,2025-01-08,"Jar Cake",4,250,5,Kanpur,Online,Pending,950.00
+1866,2024-12-09,"Chocolate Truffle",4,300,5,Delhi,Card,Delivered,1140.00
+1867,2025-04-03,"Chocolate Truffle",3,300,0,Gurgaon,UPI,Delivered,900.00
+1868,2025-03-11,"Chocolate Truffle",5,300,5,Kanpur,UPI,Delivered,1425.00
+1869,2024-12-19,"Jar Cake",5,250,10,Lucknow,"Cash on Delivery",Delivered,1125.00
+1870,2024-11-20,"Vanilla Cupcake",2,100,20,Gurgaon,"Cash on Delivery",Delivered,160.00
+1871,2025-01-18,"Chocolate Truffle",4,300,15,Gurgaon,UPI,Delivered,1020.00
+1872,2025-02-09,"Choco Chip Cookie",2,80,5,Gurgaon,Online,Delivered,152.00
+1873,2025-03-04,"Vanilla Cupcake",4,100,15,Gurgaon,Online,Delivered,340.00
+1874,2025-01-02,"Jar Cake",3,250,5,Lucknow,UPI,Delivered,712.50
+1875,2025-03-02,"Chocolate Cake",1,400,15,Noida,Online,Delivered,340.00
+1876,2024-11-16,"Choco Chip Cookie",4,80,15,Noida,Card,Cancelled,272.00
+1877,2024-12-13,Brownie,2,150,20,Lucknow,"Cash on Delivery",Delivered,240.00
+1878,2024-11-14,"Chocolate Truffle",2,300,10,Noida,UPI,Delivered,540.00
+1879,2024-12-23,"Choco Chip Cookie",1,80,15,Lucknow,UPI,Delivered,68.00
+1880,2025-03-15,"Choco Chip Cookie",4,80,15,Delhi,Online,Delivered,272.00
+1881,2025-04-16,Brownie,2,150,10,Mumbai,UPI,Delivered,270.00
+1882,2024-11-27,"Chocolate Cake",4,400,20,Mumbai,Card,Delivered,1280.00
+1883,2025-01-17,"Chocolate Truffle",5,300,0,Lucknow,UPI,Delivered,1500.00
+1884,2024-11-11,"Jar Cake",1,250,0,Kanpur,Card,Delivered,250.00
+1885,2025-04-13,"Choco Chip Cookie",3,80,0,Mumbai,Online,Delivered,240.00
+1886,2024-12-16,"Chocolate Truffle",4,300,20,Mumbai,UPI,Delivered,960.00
+1887,2025-04-24,Brownie,5,150,15,Lucknow,Card,Delivered,637.50
+1888,2025-04-19,"Chocolate Truffle",4,300,15,Noida,Online,Delivered,1020.00
+1889,2024-12-21,"Chocolate Truffle",4,300,0,Kanpur,Card,Delivered,1200.00
+1890,2025-02-11,"Chocolate Truffle",4,300,5,Delhi,"Cash on Delivery",Delivered,1140.00
+1891,2025-04-17,"Chocolate Truffle",4,300,0,Noida,UPI,Pending,1200.00
+1892,2025-01-30,"Jar Cake",5,250,5,Delhi,Card,Delivered,1187.50
+1893,2024-12-07,"Jar Cake",4,250,20,Kanpur,"Cash on Delivery",Delivered,800.00
+1894,2025-04-07,"Jar Cake",2,250,15,Gurgaon,Online,Delivered,425.00
+1895,2024-11-17,"Choco Chip Cookie",4,80,5,Lucknow,Card,Delivered,304.00
+1896,2025-03-29,"Jar Cake",2,250,5,Lucknow,Online,Delivered,475.00
+1897,2025-01-16,"Vanilla Cupcake",5,100,15,Noida,Card,Delivered,425.00
+1898,2024-12-19,"Jar Cake",2,250,0,Delhi,"Cash on Delivery",Delivered,500.00
+1899,2025-03-11,Brownie,4,150,5,Kanpur,"Cash on Delivery",Delivered,570.00
+1900,2024-12-11,"Chocolate Cake",1,400,0,Noida,"Cash on Delivery",Delivered,400.00
+1901,2025-04-22,"Chocolate Cake",2,400,15,Kanpur,Online,Delivered,680.00
+1902,2025-03-31,"Vanilla Cupcake",3,100,15,Noida,Online,Delivered,255.00
+1903,2024-12-23,"Vanilla Cupcake",3,100,0,Lucknow,Online,Delivered,300.00
+1904,2025-04-14,"Chocolate Truffle",4,300,5,Mumbai,UPI,Delivered,1140.00
+1905,2025-02-01,"Choco Chip Cookie",4,80,0,Delhi,UPI,Delivered,320.00
+1906,2025-03-03,"Vanilla Cupcake",5,100,10,Mumbai,Online,Delivered,450.00
+1907,2025-02-22,Brownie,2,150,15,Gurgaon,Online,Cancelled,255.00
+1908,2025-03-06,"Vanilla Cupcake",1,100,5,Gurgaon,Card,Delivered,95.00
+1909,2024-11-23,"Choco Chip Cookie",1,80,10,Delhi,Online,Delivered,72.00
+1910,2024-12-28,"Chocolate Truffle",3,300,5,Noida,Card,Delivered,855.00
+1911,2025-03-31,"Chocolate Cake",1,400,10,Lucknow,UPI,Delivered,360.00
+1912,2024-12-01,"Chocolate Truffle",5,300,15,Gurgaon,Card,Cancelled,1275.00
+1913,2024-11-07,"Chocolate Cake",1,400,15,Lucknow,Online,Delivered,340.00
+1914,2025-04-09,"Chocolate Cake",3,400,0,Delhi,Card,Delivered,1200.00
+1915,2025-02-23,"Jar Cake",4,250,15,Noida,Card,Delivered,850.00
+1916,2024-11-22,"Chocolate Cake",5,400,10,Gurgaon,UPI,Delivered,1800.00
+1917,2025-01-23,"Choco Chip Cookie",2,80,15,Kanpur,UPI,Pending,136.00
+1918,2024-12-31,"Chocolate Cake",4,400,10,Gurgaon,"Cash on Delivery",Delivered,1440.00
+1919,2025-03-18,"Vanilla Cupcake",3,100,20,Noida,Online,Delivered,240.00
+1920,2024-12-21,"Choco Chip Cookie",3,80,20,Lucknow,Online,Delivered,192.00
+1921,2025-01-08,Brownie,1,150,5,Kanpur,UPI,Delivered,142.50
+1922,2025-04-22,Brownie,2,150,20,Noida,UPI,Delivered,240.00
+1923,2025-02-08,"Choco Chip Cookie",4,80,15,Delhi,UPI,Delivered,272.00
+1924,2025-02-07,"Vanilla Cupcake",3,100,10,Mumbai,"Cash on Delivery",Pending,270.00
+1925,2025-01-30,"Jar Cake",3,250,20,Noida,Online,Delivered,600.00
+1926,2025-04-22,"Chocolate Truffle",4,300,15,Lucknow,Online,Delivered,1020.00
+1927,2025-01-05,"Chocolate Truffle",3,300,10,Noida,Online,Delivered,810.00
+1928,2025-01-31,"Chocolate Truffle",2,300,10,Lucknow,Card,Delivered,540.00
+1929,2024-12-06,"Choco Chip Cookie",2,80,20,Gurgaon,"Cash on Delivery",Delivered,128.00
+1930,2024-11-04,"Choco Chip Cookie",3,80,20,Mumbai,Online,Delivered,192.00
+1931,2024-11-02,"Chocolate Truffle",1,300,5,Kanpur,UPI,Delivered,285.00
+1932,2024-11-20,Brownie,4,150,0,Lucknow,UPI,Delivered,600.00
+1933,2025-02-21,"Chocolate Truffle",2,300,5,Delhi,Card,Delivered,570.00
+1934,2024-11-29,Brownie,2,150,15,Lucknow,UPI,Delivered,255.00
+1935,2025-01-02,"Chocolate Truffle",2,300,0,Lucknow,UPI,Delivered,600.00
+1936,2025-02-19,"Jar Cake",1,250,20,Delhi,UPI,Delivered,200.00
+1937,2024-12-02,"Jar Cake",5,250,15,Delhi,UPI,Delivered,1062.50
+1938,2024-11-21,"Chocolate Cake",4,400,5,Mumbai,Online,Delivered,1520.00
+1939,2024-12-12,"Chocolate Cake",2,400,20,Mumbai,"Cash on Delivery",Delivered,640.00
+1940,2024-11-25,"Chocolate Cake",5,400,5,Lucknow,Online,Delivered,1900.00
+1941,2025-01-04,"Jar Cake",5,250,5,Delhi,Card,Delivered,1187.50
+1942,2024-12-17,"Jar Cake",3,250,20,Mumbai,"Cash on Delivery",Delivered,600.00
+1943,2025-01-11,"Chocolate Cake",3,400,10,Lucknow,Card,Delivered,1080.00
+1944,2025-02-07,"Vanilla Cupcake",5,100,15,Mumbai,UPI,Delivered,425.00
+1945,2025-02-11,"Jar Cake",2,250,5,Lucknow,Online,Delivered,475.00
+1946,2024-12-11,"Vanilla Cupcake",4,100,5,Mumbai,Online,Delivered,380.00
+1947,2025-03-18,"Choco Chip Cookie",2,80,5,Gurgaon,Online,Delivered,152.00
+1948,2025-04-30,"Chocolate Truffle",5,300,5,Kanpur,"Cash on Delivery",Delivered,1425.00
+1949,2025-04-30,"Choco Chip Cookie",3,80,0,Noida,Online,Delivered,240.00
+1950,2025-02-01,"Chocolate Cake",5,400,20,Kanpur,UPI,Delivered,1600.00
+1951,2025-03-28,"Jar Cake",5,250,20,Kanpur,Online,Delivered,1000.00
+1952,2025-02-01,"Choco Chip Cookie",1,80,15,Delhi,"Cash on Delivery",Pending,68.00
+1953,2025-02-06,Brownie,3,150,15,Lucknow,"Cash on Delivery",Delivered,382.50
+1954,2025-02-13,"Jar Cake",2,250,15,Kanpur,"Cash on Delivery",Delivered,425.00
+1955,2025-02-21,"Chocolate Truffle",4,300,10,Delhi,UPI,Delivered,1080.00
+1956,2024-12-25,"Choco Chip Cookie",3,80,10,Delhi,UPI,Pending,216.00
+1957,2025-02-06,"Vanilla Cupcake",4,100,10,Noida,Card,Delivered,360.00
+1958,2025-04-12,"Chocolate Truffle",2,300,10,Gurgaon,"Cash on Delivery",Delivered,540.00
+1959,2025-04-26,"Choco Chip Cookie",2,80,15,Noida,UPI,Delivered,136.00
+1960,2024-12-27,"Choco Chip Cookie",4,80,20,Delhi,Card,Delivered,256.00
+1961,2025-01-29,"Choco Chip Cookie",1,80,15,Lucknow,"Cash on Delivery",Delivered,68.00
+1962,2025-04-03,"Vanilla Cupcake",3,100,5,Lucknow,Card,Cancelled,285.00
+1963,2024-11-12,"Jar Cake",5,250,5,Kanpur,"Cash on Delivery",Delivered,1187.50
+1964,2025-03-04,Brownie,2,150,15,Mumbai,UPI,Delivered,255.00
+1965,2025-02-20,"Vanilla Cupcake",2,100,15,Delhi,Online,Delivered,170.00
+1966,2025-03-24,"Jar Cake",2,250,20,Mumbai,Online,Delivered,400.00
+1967,2024-12-19,"Choco Chip Cookie",4,80,15,Kanpur,"Cash on Delivery",Delivered,272.00
+1968,2025-04-20,Brownie,5,150,5,Mumbai,UPI,Delivered,712.50
+1969,2025-04-01,"Chocolate Cake",4,400,0,Mumbai,Card,Delivered,1600.00
+1970,2024-12-07,"Chocolate Truffle",3,300,0,Mumbai,UPI,Delivered,900.00
+1971,2025-01-28,"Chocolate Cake",1,400,5,Noida,UPI,Delivered,380.00
+1972,2025-04-25,"Vanilla Cupcake",3,100,5,Kanpur,Online,Pending,285.00
+1973,2025-04-14,Brownie,1,150,20,Noida,UPI,Delivered,120.00
+1974,2025-03-06,"Chocolate Truffle",4,300,15,Mumbai,"Cash on Delivery",Delivered,1020.00
+1975,2025-01-08,"Vanilla Cupcake",4,100,0,Gurgaon,UPI,Delivered,400.00
+1976,2024-11-02,"Vanilla Cupcake",5,100,5,Gurgaon,Card,Delivered,475.00
+1977,2025-03-09,"Jar Cake",1,250,15,Delhi,Card,Delivered,212.50
+1978,2025-02-21,"Vanilla Cupcake",2,100,20,Noida,Online,Delivered,160.00
+1979,2025-04-13,Brownie,1,150,5,Delhi,Online,Delivered,142.50
+1980,2025-01-03,"Jar Cake",3,250,5,Mumbai,UPI,Delivered,712.50
+1981,2024-12-25,Brownie,1,150,10,Gurgaon,UPI,Delivered,135.00
+1982,2025-01-18,"Chocolate Cake",1,400,20,Lucknow,UPI,Delivered,320.00
+1983,2024-11-11,Brownie,4,150,20,Kanpur,"Cash on Delivery",Delivered,480.00
+1984,2024-12-12,Brownie,2,150,5,Kanpur,Card,Delivered,285.00
+1985,2024-12-14,"Choco Chip Cookie",1,80,10,Noida,UPI,Delivered,72.00
+1986,2024-12-19,"Chocolate Truffle",2,300,10,Kanpur,Card,Delivered,540.00
+1987,2025-01-15,"Chocolate Cake",5,400,15,Delhi,"Cash on Delivery",Delivered,1700.00
+1988,2025-01-21,"Vanilla Cupcake",4,100,15,Kanpur,Card,Delivered,340.00
+1989,2024-12-14,"Choco Chip Cookie",1,80,15,Gurgaon,Card,Delivered,68.00
+1990,2024-11-01,"Chocolate Cake",4,400,10,Gurgaon,Card,Delivered,1440.00
+1991,2024-11-15,"Jar Cake",2,250,0,Noida,Card,Delivered,500.00
+1992,2025-04-18,"Jar Cake",1,250,15,Kanpur,UPI,Delivered,212.50
+1993,2025-03-14,"Choco Chip Cookie",4,80,20,Gurgaon,UPI,Delivered,256.00
+1994,2025-04-23,"Chocolate Truffle",3,300,20,Mumbai,Card,Delivered,720.00
+1995,2024-12-30,"Vanilla Cupcake",5,100,20,Noida,"Cash on Delivery",Delivered,400.00
+1996,2025-01-21,"Choco Chip Cookie",4,80,0,Lucknow,Card,Delivered,320.00
+1997,2025-01-30,Brownie,2,150,10,Gurgaon,Online,Delivered,270.00
+1998,2024-12-01,"Chocolate Cake",4,400,20,Mumbai,UPI,Pending,1280.00
+1999,2025-03-07,"Chocolate Cake",1,400,10,Noida,UPI,Delivered,360.00
+2000,2024-11-21,"Choco Chip Cookie",2,80,10,Gurgaon,Online,Pending,144.00
